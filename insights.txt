@@ -1,1 +1,99 @@
-- Anticipation: Hear what's next.  Take a Maj3.  Sus2.  Then what?  What do you hear?  Do that.  **cough** "voice-leading" **cough**
+#
+- Anticipation: Hear what's next.  Take a M3 -> sus2 -> ... then hen what?  What do you hear?  Do that.  **cough** "voice-leading" **cough**
+- M3 is a part of the structure of maj
+
+# legend
+INTERVALS (semitones)
+P1   unison        0
+m2   minor 2nd     1
+M2   major 2nd     2
+m3   minor 3rd     3
+M3   major 3rd     4
+P4   perfect 4th   5
+TT   tritone       6
+P5   perfect 5th   7
+m6   minor 6th     8
+M6   major 6th     9
+m7   minor 7th     10
+M7   major 7th     11
+P8   octave        12
+
+GENERIC CHORD STRUCTURES (no root)
+maj        major          1 3 5
+min        minor          1 b3 5
+dim        diminished     1 b3 b5
+aug        augmented      1 3 #5
+sus2       suspended 2    1 2 5
+sus4       suspended 4    1 4 5
+maj7       major 7        1 3 5 7
+dom7       dominant 7     1 3 5 b7
+min7       minor 7        1 b3 5 b7
+minMaj7    minor-major 7  1 b3 5 7
+halfdim7   half-dim 7     1 b3 b5 b7
+dim7       diminished 7   1 b3 b5 bb7
+aug7       augmented 7    1 3 #5 b7
+6          major 6        1 3 5 6
+min6       minor 6        1 b3 5 6
+6/9        six-nine       1 3 5 6 9
+dom9       dominant 9     1 3 5 b7 9
+maj9       major 9        1 3 5 7 9
+min9       minor 9        1 b3 5 b7 9
+dom11      dominant 11    1 (3) 5 b7 9 11
+min11      minor 11       1 b3 5 b7 9 11
+dom13      dominant 13    1 3 5 b7 9 (11) 13
+maj13      major 13       1 3 5 7 9 (11) 13
+add9       added 9        1 3 5 9
+add11      added 11       1 3 5 11
+5          power chord    1 5
+
+TRIADS
+C        major          1 3 5
+Cm       minor          1 b3 5
+Cdim     diminished     1 b3 b5
+Caug     augmented      1 3 #5
+Csus2    suspended 2    1 2 5
+Csus4    suspended 4    1 4 5
+
+SEVENTHS
+Cmaj7    major 7        1 3 5 7
+C7       dominant 7     1 3 5 b7
+Cm7      minor 7        1 b3 5 b7
+Cm(maj7) minor-major 7  1 b3 5 7
+Cm7b5    half-dim       1 b3 b5 b7
+Cdim7    diminished 7   1 b3 b5 bb7
+C7#5     augmented 7    1 3 #5 b7
+
+SIXTHS
+C6       major 6        1 3 5 6
+Cm6      minor 6        1 b3 5 6
+C6/9     six-nine       1 3 5 6 9
+
+EXTENSIONS (imply lower 7th)
+C9       dominant 9     1 3 5 b7 9
+Cmaj9    major 9        1 3 5 7 9
+Cm9      minor 9        1 b3 5 b7 9
+C11      dominant 11    1 (3) 5 b7 9 11
+Cm11     minor 11       1 b3 5 b7 9 11
+C13      dominant 13    1 3 5 b7 9 (11) 13
+Cmaj13   major 13       1 3 5 7 9 (11) 13
+
+ALTERED (dominant)
+C7b9     1 3 5 b7 b9
+C7#9     1 3 5 b7 #9
+C7#11    1 3 5 b7 #11
+C7b13    1 3 5 b7 b13
+C7alt    1 3 b7 b9 #9 #11 b13
+
+ADDS / POWER
+Cadd9    1 3 5 9
+Cadd11   1 3 5 11
+C5       power chord    1 5
+
+SYMBOL KEY
+maj / M / triangle = major 7
+m / min / -        = minor
+dim / o            = diminished
+aug / +            = augmented
+b = flat   # = sharp   bb = double-flat
+( ) = optional/often omitted
+/   = slash chord (C/E = C over E bass)
