@@ -1,16 +1,58 @@
-#
-- Anticipation: Hear what's next.  Take a M3 -> sus2 -> ... then hen what?  What do you hear?  Do that.  **cough** "voice-leading" **cough**
-- Intervals compose chords that allow melodies and voice leading to comfortably happen.
-  for example:
-    - M3 is a part of the structure of all chords except dim*, sus2, sus4, 5
-      note*: sorta.  dim (m3-m3) builds other chords that include M3.
-- m3
+# insights
+- Anticipation: Hear what's next.  Play M3 -> sus2 -> ... then what?  What do you hear?  Do that.  **cough** "voice-leading" **cough**
+- Interval pivots: Play M3.  Don't move it.  From it, play maj -> min -> aug -> maj7 (M3 on bottom) -> maj7 (M3 on top) -> ... etc.
 
 # legend
+SCALES/MODES (degrees relative to major scale)
+
+ion    Ionian      major            1 2 3 4 5 6 7
+dor    Dorian      minor +nat6      1 2 b3 4 5 6 b7
+phr    Phrygian    minor +b2        1 b2 b3 4 5 b6 b7
+lyd    Lydian      major +#4        1 2 3 #4 5 6 7
+mix    Mixolydian  major +b7        1 2 3 4 5 6 b7
+aeo    Aeolian     natural minor    1 2 b3 4 5 b6 b7
+loc    Locrian     dim +b2 +b5      1 b2 b3 4 b5 b6 b7
+
+STEP PATTERN (W=whole h=half)
+Ionian      W W h W W W h
+Dorian      W h W W W h W
+Phrygian    h W W W h W W
+Lydian      W W W h W W h
+Mixolydian  W W h W W h W
+Aeolian     W h W W h W W
+Locrian     h W W h W W W
+
+BRIGHTNESS (bright -> dark)
+Lydian > Ionian > Mixolydian > Dorian > Aeolian > Phrygian > Locrian
+
+ROTATION (all from C major's notes)
+Ionian      C   C D E F G A B
+Dorian      D   D E F G A B C
+Phrygian    E   E F G A B C D
+Lydian      F   F G A B C D E
+Mixolydian  G   G A B C D E F
+Aeolian     A   A B C D E F G
+Locrian     B   B C D E F G A
+
+TONIC CHORD
+Ionian      maj7    1 3 5 7
+Dorian      min7    1 b3 5 b7
+Phrygian    min7    1 b3 5 b7
+Lydian      maj7    1 3 5 7
+Mixolydian  dom7    1 3 5 b7
+Aeolian     min7    1 b3 5 b7
+Locrian     m7b5    1 b3 b5 b7
+
+CHARACTERISTIC NOTE (the one that defines it)
+Dorian      nat6  (vs Aeolian b6)
+Phrygian    b2
+Lydian      #4
+Mixolydian  b7  (vs Ionian nat7)
+Locrian     b5
 INTERVALS (semitones)
 P1   unison        0
-m2   minor 2nd     1
-M2   major 2nd     2
+m2/h   minor 2nd     1
+M2/W  major 2nd     2
 m3   minor 3rd     3
 M3   major 3rd     4
 P4   perfect 4th   5
