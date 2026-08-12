@@ -1,0 +1,64 @@
+## The operating principle
+
+Thirty focused minutes beats ninety unfocused ones. Two rules make the whole thing work: **the metronome is on for every block**, and **most of this belongs on a practice pad**, not the kit. The pad exposes uneven strokes that cymbal wash and room reverb will happily hide from you.
+
+Here's a 30-minute version. Scaling notes at the bottom.
+
+**1. Physical warmup — 3 min**
+
+Wrist circles, forearm flexor stretches, finger flexion. Then free strokes: loose grip, drop the stick, let it rebound to full height on its own, 20 per hand. You're feeling for the stick doing the work. If anything in your wrist or forearm feels like strain rather than fatigue, stop — drummers lose months to tendinitis they warmed through.
+
+**2. Subdivision ladder — 4 min**
+
+Click at 60. Alternating singles: 4 bars of quarters → 4 of 8ths → 4 of triplets → 4 of 16ths → 4 of sextuplets → then back down the same way. No pause between levels. This is the highest-value four minutes in the routine — it warms the hands and builds subdivision fluency simultaneously.
+
+**3. Sticking — 7 min**
+
+*Stick Control*, page 5. Four lines a day, 20 reps each as written, then 20 more with accents on the downbeats. Rotate through all 24 exercises across the week.
+
+Or, if you don't have the book: the four paradiddle inversions, ~2 min each.
+
+```
+RLRR LRLL    RRLR LLRL    RLLR LRRL    LRRL RLLR
+```
+
+Pick the tempo where every stroke is even, not the tempo you wish you had.
+
+**4. Rudiments — 6 min**
+
+Three per day, 2 minutes each, **open–close–open**: start slow, gradually accelerate to your ceiling, then decelerate back down in one unbroken stream. The deceleration is where the real work happens — most people can accelerate into a rudiment and very few can come back out of it cleanly.
+
+A weekly rotation so you're not doing forty things badly:
+
+- **Mon** — double stroke roll, five-stroke roll, six-stroke roll
+- **Tue** — flam, flam tap, flam accent
+- **Wed** — single, double, and triple paradiddle
+- **Thu** — drag, drag tap, single drag tap
+- **Fri** — Swiss triplet, single ratamacue, seven-stroke roll
+- **Sat** — your three worst ones from the week
+
+**5. Consistency — 5 min**
+
+Stroke heights first. Set three positions: 3", 6", 12". Eight strokes per hand at each, then alternate heights every four strokes. Your ear should hear three clearly distinct volumes and nothing in between.
+
+Then accent-tap: continuous RLRL 16ths with a single accent moving through position 1, then 2, then 3, then 4 — one minute each. The test is strict: every tap identical, every accent identical, left hand indistinguishable from right. This block is what separates clean players from sloppy ones, and it's the one people skip.
+
+**6. Timekeeping — 5 min**
+
+Progressive click removal on a simple groove:
+
+- 1 min — click on all four beats
+- 1 min — click on 2 and 4 only
+- 1 min — click on beat 1 only
+- 1 min — click on the "&" of 2 only (deeply uncomfortable at first, which is the point)
+- 1 min — click muting every other bar
+
+That last one needs an app with a mute/dropout feature — Time Guardian, Dr. Betotte, and Soundbrenner all do it.
+
+## Scaling and habits
+
+**15-minute version:** subdivision ladder, one sticking exercise, two rudiments, then the click-on-2-and-4 drill. Cut nothing else.
+
+**60-minute version:** double each block and add a groove-application segment — take the day's rudiment and orchestrate it around the kit, or displace a groove so the backbeat lands on the "e."
+
+Three things that compound: **write down your tempos** so you can see movement instead of guessing at it; **record yourself once a week** on your phone, because your hands lie to your ears in real time; and **live at slow tempos** — 50 bpm is harder than 140 and teaches you far more, since there's nowhere for a bad stroke to hide.
