@@ -1,0 +1,21 @@
+The core four
+
+Vincent Persichetti, Twentieth-Century Harmony (Norton, 1961) — still unmatched as a generative manual. Organized by device rather than by chronology: scale materials, chords by thirds/fourths/seconds, added-note chords, polychords, parallelism, pandiatonicism. Every chapter ends in exercises. This is the one that builds hands.
+
+Dmitri Tymoczko, A Geometry of Music (OUP, 2011) — gives you the mental model that makes Debussy feel inevitable instead of arbitrary: pick a macroharmony (a scale collection), let verticals emerge from it, move between collections by minimal voice-leading. His earlier article "Scale Networks and Debussy" (Journal of Music Theory 48/2, 2004) is the compressed version and is probably the single most useful technical text on this specific composer. His Tonality: An Owner's Manual (2023) extends it.
+
+Mark DeVoto, Debussy and the Veil of Tonality (Pendragon, 2004) — the closest thing to a harmony-focused Debussy monograph written by a practicing musician. Chord vocabulary, dominant sevenths that go nowhere, the mechanics of the "veil."
+
+Roy Howat, The Art of French Piano Music (Yale, 2009) — covers Debussy, Ravel, Fauré, Chabrier together, and is excellent on the things harmony books miss: spacing, pedaling, notation, how the sonority is constructed. Debussy's harmony is inseparable from register and texture, and most theory texts strip that out.
+
+Worth adding
+
+Messiaen's Technique of My Musical Language is short and is the direct downstream codification (modes of limited transposition, added-note chords). Ludmila Ulehla's Contemporary Harmony is more verbose than Persichetti but stronger on how extensions behave in non-functional progressions. Richard Parks's The Music of Claude Debussy is rigorous set-theoretic analysis — valuable, dry, not a writing manual. And Ron Miller's Modal Jazz Composition & Harmony is unexpectedly useful, because modern modal jazz sits very close to this language and Miller drills the hearing of it.
+
+If you read French, Koechlin's Traité de l'harmonie codifies the idiom from inside the period.
+
+What none of them will do for you
+
+The transfer from analysis to intuition happens at the keyboard, not on the page. The regimen that works: take one prelude, copy it out by hand, then reduce it — strip the figuration, write the harmonic skeleton on two staves, label the collection governing each phrase rather than the roman numerals. Then reharmonize a melody of your own using only the moves you extracted. Do that with fifteen or twenty pieces and the intuition arrives.
+
+Highest-yield scores: Préludes Book I (especially Voiles, La cathédrale engloutie, Des pas sur la neige), Estampes, Images Book I, the String Quartet's slow movement, and Pelléas for how he sustains it across hours. Then work backward to Chabrier, Fauré's late nocturnes, Mussorgsky, and Borodin — his actual sources.
