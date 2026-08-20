@@ -282,3 +282,339 @@ separate climaxes
 compose chunks
 fill gaps
 listen for independence
+
+
+CHORD COLOR / IDENTITY CHEAT SHEET
+==================================
+
+GENERAL TERTIAN RULE
+root = tonal anchor
+3/b3 = major/minor identity
+7/b7 = functional family
+5 = usually expendable unless altered
+9/11/13 = color
+b9/#9/#11/b13/#5/b5 = strong identity/color
+For extended chords: preserve 3 + 7 + characteristic alteration/color.
+
+BASIC TRIADS
+maj        1 3 5              3 = major identity; 5 mostly reinforcement
+min        1 b3 5             b3 = minor identity
+dim        1 b3 b5            b5 = diminished instability; b3 = minor quality
+aug        1 3 #5             #5 = augmented/whole-tone color
+5          1 5                no 3 = major/minor ambiguity
+sus2       1 2 5              2 + absent 3 = open suspended color
+sus4       1 4 5              4 + absent 3 = suspended tendency; 4 often →3
+
+6TH CHORDS
+6          1 3 5 6            3 = major; 6 = warm tonic color
+m6         1 b3 5 6           b3 = minor; 6 = strong Dorian implication
+6/9        1 3 5 6 9          6+9 = consonant/open/pentatonic-ish color
+m6/9       1 b3 5 6 9         b3+6 = Dorian; 9 = openness
+
+7TH CHORDS
+maj7       1 3 5 7            3+7 = major-major identity; 7 = defining color
+7          1 3 5 b7           3+b7 = dominant tritone/function; 5 expendable
+m7         1 b3 5 b7          b3+b7 = minor-7/modal identity
+mMaj7      1 b3 5 7           b3+7 = defining minor/major contradiction
+m7b5       1 b3 b5 b7         b5 = half-dim identity; b7 distinguishes from dim7
+dim7       1 b3 b5 bb7        symmetrical m3 stack more important than root
+maj7#5     1 3 #5 7           #5+7 = augmented-major color
+7#5        1 3 #5 b7          3+b7 = dominant; #5 = altered/whole-tone color
+
+9TH CHORDS
+maj9       1 3 5 7 9          3+7 = identity; 9 = principal color
+m9         1 b3 5 b7 9        b3+b7 = identity; 9 = lush/open minor color
+9          1 3 5 b7 9         3+b7 = dominant; 9 = diatonic extension
+7b9        1 3 5 b7 b9        b9 = intense root-semitone tension; harmonic-minor/Phrygian flavor
+7#9        1 3 5 b7 #9        #9 = major/minor collision; blues/altered flavor
+
+11TH CHORDS
+m11        1 b3 5 b7 9 11     b3+b7 = identity; 11 = primary color; 9 secondary
+11         1 3 5 b7 9 11      3 vs 11 = harsh m9; often omit 3 → dominant-sus sound
+9sus4      1 4 5 b7 9         4 + absent 3 = suspended dominant identity
+maj11      1 3 5 7 9 11       natural 11 clashes strongly with 3
+maj9#11    1 3 5 7 9 #11      #11 = Lydian fingerprint; 3+7 = maj7 identity
+9#11       1 3 5 b7 9 #11     3+b7 = dominant; #11 = Lydian-dominant/tritone color
+
+13TH CHORDS
+maj13      1 3 5 7 9 11 13    3+7 identity; 13 = upper color; often #11 instead of 11
+13         1 3 5 b7 9 11 13   3+b7 = dominant; 13 = principal color
+m13        1 b3 5 b7 9 11 13  b3+b7 = minor7; natural 13 strongly Dorian
+7b13       1 3 5 b7 9 b13     b13 = dark altered/Aeolian-minor color
+7#5        1 3 #5 b7           #5 and b13 same pitch class often; spelling implies chord tone vs extension
+
+ALTERED DOMINANT CORE
+ESSENTIAL: 3 + b7
+ADD:
+b9  = Phrygian/dark/semitone pressure
+#9  = major/minor clash/blues
+#11 = tritone/Lydian-dominant brightness
+b13 = dark altered color
+Example C7alt: E=3, Bb=b7, Db=b9, D#=#9, F#=#11, Ab=b13.
+Perfect 5 generally unnecessary.
+
+ADDED-NOTE CHORDS
+add9       1 3 5 9            9 = color; no b7, therefore NOT dominant 9
+m(add9)    1 b3 5 9           b3 = minor; 9 = strong expressive color
+add11      1 3 5 11           3+11 = characteristic semitone/m9 rub
+add#11     1 3 5 #11          #11 = immediate Lydian coloration
+addb6      1 3 5 b6           5+b6 = exposed semitone; dark/modal
+m(add6)    1 b3 5 6           natural 6 = Dorian implication
+maj+b7     1 3 5 b7           b7 changes family toward dominant/Mixolydian
+
+MODE-DEFINING COLOR NOTES
+major + 4      = Ionian/plain major implication
+major + #4     = Lydian
+major + b7     = Mixolydian/dominant
+minor + 2      = ordinary minor openness
+minor + b2     = Phrygian
+minor + 6      = Dorian
+minor + b6     = Aeolian
+minor + b5     = Locrian/diminished
+dominant + #4  = Lydian dominant
+dominant + b9  = Phrygian-dominant/harmonic-minor tendency
+dominant + #5  = whole-tone/altered tendency
+
+PITCH-COLOR DICTIONARY
+b2/b9  = semitone pressure, Phrygian, altered dominant
+2/9    = openness, spaciousness, diatonic extension
+#2/#9  = blues, altered dominant, major/minor collision
+b3     = minor identity
+3      = major identity
+b3+3   = split-third/blues/major-minor duality
+4/11   = suspension; with 3 = deliberate rub
+#4/#11 = Lydian/tritone/bright modern color
+b5     = diminished/Locrian/altered
+5      = stability, low information unless context depends on it
+#5     = augmented/whole-tone/altered
+b6/b13 = Aeolian/dark/altered
+6/13   = warm major color; with minor = Dorian
+b7     = dominant/Mixolydian/minor-7 world
+7      = major-7/leading-tone color
+
+SPLIT-THIRD
+1 b3 3 5
+b3+3 IS the identity.
+Implications: blues, modal mixture, bitonality, chromatic voice leading.
+Do not force it into exclusively major or minor.
+
+AUGMENTED-SIXTH FAMILY
+It+6   b6 1 #4          b6+#4 = defining augmented 6th; both tend →5
+Fr+6   b6 1 2 #4        b6+#4 identity; 2 adds whole-tone-ish color
+Ger+6  b6 1 b3 #4       b6+#4 identity; b3 gives dominant-7-like richness
+Core principle: outward resolution b6→5 and #4→5 matters more than chord-root labeling.
+
+QUARTAL HARMONY — PERSICHETTI
+Do NOT search for a 3rd as primary identifier.
+Identity = interval architecture/spacing.
+
+P4+P4      e.g. C-F-Bb       pure quartal; open/pentatonic/root-ambiguous
+P4+A4      e.g. C-F-B        upper tritone adds sharp tension
+A4+P4      e.g. C-F#-B       lower tritone; often Lydian-ish if bass emphasized
+P4 stacks  C-F-Bb-Eb-Ab       chain continuity = identity
+A4 content                  increases tension/color sharply
+Important variables:
+1 interval sequence
+2 P4 vs A4 placement
+3 bass
+4 top note
+5 spacing/register
+6 persistence of quartal grouping
+If revoiced enough, same pitches may sound tertian instead.
+
+QUINTAL HARMONY
+e.g. C-G-D-A-E
+identity = stacked 5ths
+color = open/resonant/spacious/root-ambiguous
+spacing is part of harmonic identity.
+
+SECUNDAL HARMONY — PERSICHETTI
+Identity = arrangement of M2/m2 rather than 3rds.
+M2+M2       C-D-E          open/whole-tone or diatonic fragment
+m2+m2       C-Db-D         maximum local semitone density
+M2+m2       C-D-Eb         asymmetric; location of m2 gives directional tension
+m2+M2       C-Db-Eb        same principle with different emphasis
+Important:
+1 collection
+2 M2/m2 pattern
+3 bass/top
+4 register
+5 density
+
+CLUSTERS
+Diatonic cluster   C-D-E-F-G       color = scale collection + density
+Chromatic cluster  C-Db-D-Eb-E     color = semitone saturation
+Whole-tone cluster C-D-E-F#-G#-A# color = M2 symmetry/root ambiguity
+For large clusters prioritize:
+1 pitch collection/set
+2 register
+3 m2 density
+4 bass
+5 top note
+6 orchestration/dynamics
+7 interior pitches
+As saturation increases, individual note-function matters less.
+
+POLYCHORDS — PERSICHETTI
+Think TWO ways:
+A) preserve separate chord units
+B) translate upper chord against lower root as tensions
+
+Analyze:
+lower chord + upper chord + root interval + common tones + collisions + register.
+
+Example D/C:
+lower C major = C E G
+upper D major = D F# A
+relative to C: 9 #11 13
+Can be heard either as C(9,#11,13) OR C-major + D-major polychord.
+Register/grouping determines which reading wins.
+
+USEFUL UPPER STRUCTURES OVER C7
+D major   D F# A    = 9 #11 13       bright/Lydian-dominant
+Eb major  Eb G Bb   = #9 5 b7        #9 dominant color
+Ab major  Ab C Eb   = b13 1 #9       dark altered dominant
+A major   A C# E    = 13 b9 3        b9+13 dominant color
+Gb major  Gb Bb Db  = #11 b7 b9      highly altered
+Bb minor  Bb Db F   = b7 b9 11       dark suspended/altered color
+
+POLYCHORD PERCEPTION
+common tones     = fuse units
+semitones        = differentiate/intensify units
+tritones         = differentiate/intensify units
+wide register    = preserves separate chord identity
+close register   = tends to fuse into one compound sonority
+
+COMPOUND HARMONY — PERSICHETTI
+Possible fusion:
+tertian + quartal
+tertian + secundal
+quartal + cluster
+multiple interval systems simultaneously
+Do not insist on one root-extension label.
+Prioritize:
+1 bass
+2 recognizable component structures
+3 interval fingerprint
+4 semitone/tritone collisions
+5 top voice
+6 register
+7 density
+
+MIRROR HARMONY — PERSICHETTI
+Identity = intervallic reflection around an axis.
+Important:
+axis of reflection
+interval pairs
+resulting lower sonority
+outer voices
+symmetry
+Generating/axis tone need NOT sound like harmonic root.
+
+LARGE TERTIAN AGGREGATES — PERSICHETTI
+Stacked beyond 7/9/11/13 into larger 3rd-built masses.
+As size increases, prioritize:
+bass
+3rd quality
+7th quality
+altered intervals
+top note
+spacing/register
+density
+Do not overvalue extremely large chord symbols if ear perceives aggregate instead.
+
+12-NOTE CHORDS
+All pitch classes present → no unique "color pitch."
+Harmony shifts toward:
+spacing
+register
+bass
+top voice
+doubling
+interval grouping
+orchestration
+dynamics
+Rule: as pitch-class saturation approaches 12, vertical arrangement matters more than pitch inventory.
+
+PRACTICAL INFORMATION HIERARCHY
+maj/min triad      → 3 or b3
+dim/aug triad      → altered 5
+7th chord          → 3 + 7
+dominant           → 3 + b7
+extended chord     → 3 + 7 + ONE characteristic extension
+altered dominant   → 3 + b7 + altered tone(s)
+modal chord        → mode-defining degree
+quartal            → P4/A4 pattern
+secundal           → M2/m2 pattern
+cluster            → collection + density
+polychord          → lower unit + upper unit
+compound           → fused interval architecture
+mirror             → axis + reflection
+12-note            → spacing/register/orchestration
+
+PIANO VOICING REDUCTION
+Cmaj9      C E G B D       → E B D        = 3 7 9
+Cm9        C Eb G Bb D     → Eb Bb D      = b3 b7 9
+C9         C E G Bb D      → E Bb D       = 3 b7 9
+C7b9       C E G Bb Db     → E Bb Db      = 3 b7 b9
+C7#9       C E G Bb D#     → E Bb D#      = 3 b7 #9
+C7#11      C E G Bb F#     → E Bb F#      = 3 b7 #11
+C13        C E G Bb D A    → E Bb A       = 3 b7 13
+C13#11     C E G Bb D F# A → E Bb F# A    = 3 b7 #11 13
+Cm13       C Eb G Bb D F A → Eb Bb A      = b3 b7 13 = strong Dorian signal
+Cmaj9#11   C E G B D F#    → E B D F#     = 3 7 9 #11
+
+WHAT CAN USUALLY BE OMITTED?
+root: omit if bass/instrument/context supplies it
+perfect 5: usually first omission
+9: omit unless 9 is desired color
+11: retain if defining sus/minor/quartal color
+13: retain if chord is specifically heard as 13
+3: rarely omit unless sus/ambiguous/quartal structure intended
+7: rarely omit from 7th/extended functional harmony
+alterations: generally retain; often the entire reason for the chord
+
+FAST ANALYSIS ALGORITHM
+1. Is the chord tertian, quartal, secundal, cluster, polychordal, compound, symmetric?
+2. If tertian: find 3/b3.
+3. Find 7/b7 if present.
+4. Find altered 5 or special interval.
+5. Identify ONE note most responsible for extra color: b9/#9/9/11/#11/13/b13/etc.
+6. Ask which notes can disappear without changing the perceived chord.
+7. For non-tertian chords, analyze interval pattern before root/function.
+8. For dense chords, inspect bass + top note + register before naming every interior pitch.
+
+DEEPEST REDUCTION
+IDENTITY = what makes the chord belong to a family.
+COLOR    = what distinguishes this member of that family.
+TENDENCY = what creates directional voice-leading pressure.
+
+Examples:
+C7           E+Bb = identity
+C7b9         E+Bb = identity; Db = color/tendency
+Cmaj7#11     E+B = identity; F# = color
+Cm13         Eb+Bb = identity; A = Dorian color
+C-Eb-E-G     Eb+E = defining split-third collision
+C-F-Bb-Eb    fourth-chain = identity; no single "color tone" required
+C-D-Eb-F#    M2/m2/tritone architecture may matter more than root label
+
+MEMORIZE
+3      major
+b3     minor
+b7     dominant/Mixolydian/minor7
+7      maj7/leading-tone
+b9     Phrygian/semitone tension
+9      openness
+#9     major-minor collision
+11     suspension/minor extension
+#11    Lydian/tritone brightness
+b13    dark/Aeolian/altered
+13     warmth; Dorian when combined with minor
+b5     diminished/Locrian
+#5     augmented/whole-tone
+P4     quartal openness
+A4     quartal tension
+M2     broad cluster/whole-tone spacing
+m2     maximum local friction
+symmetry = root ambiguity
+spacing = increasingly important as harmony becomes denser/non-tertian
