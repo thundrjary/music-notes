@@ -1,0 +1,426 @@
+====================================================================
+ MODULATION CHEATSHEET                              4 of 100 entries
+ pivot-chord modulations in four voices                68 col, ASCII
+====================================================================
+
+ HOW TO USE
+   Sections 1-3 are reference; read once. Section 4 is the index.
+   Section 5 holds the entries. Section 6 is the blank template.
+
+   Every entry is a table plus a one-line summary. The table is
+   authoritative; the line is generated from it. If they ever
+   disagree, the table is right.
+
+   Grep: "^ A2" jumps to an entry. "TODO" finds unfinished work.
+
+
+====================================================================
+ 1.  THE LINE
+====================================================================
+
+  A2  C → D    Iᶜ → iii′ᶜ | ii′ᵈ → Vᵈ ⇒ Iᵈ
+  ──  ─────    ──────────────────────────────
+  id  keys     the progression
+
+  Read left to right, one symbol per sounding chord — except at
+  the pivot, where two symbols share one chord. Symbol count
+  therefore exceeds event count by exactly one.
+
+--------------------------------------------------------------------
+ CHORD SYMBOLS
+--------------------------------------------------------------------
+  I  IV  V      UPPERCASE numeral = MAJOR triad
+  ii iii vi     lowercase numeral = MINOR triad
+
+  Case carries quality and is never optional. The source writes
+  every numeral uppercase, concealing quality; correcting the
+  case is the first edit when transcribing. A numeral not yet
+  checked against its pitches is not yet transcribed.
+
+  The numeral counts degrees in the key given by ITS OWN raised
+  key letter — not the entry's key, not the preceding chord's.
+
+--------------------------------------------------------------------
+ RAISED KEY LETTER        ᶜ ᵈ ᵉ ᵍ ᵃ …
+--------------------------------------------------------------------
+  Every chord carries, raised and immediately after the numeral,
+  the key it is read in.
+
+      iii′ᶜ     "third degree, first inversion, read in C"
+
+  Numeral first, key second. The CHORD is the object under
+  discussion; the key is the vantage point. Writing the key
+  first (the source's CIII) makes the key the possessor and the
+  chord its property — the wrong relation, since a pivot chord
+  belongs to no key exclusively.
+
+  Key letters are always lowercase whatever the mode; the entry
+  header determines major or minor. This is a separate namespace
+  from chord case, deliberately, so a raised letter is never
+  mistaken for a quality mark.
+
+  The letter repeats on every chord, including runs in one key.
+  Redundant by design: any fragment stays readable when quoted
+  alone, and the pivot marks can be checked against the letters
+  rather than trusted.
+
+--------------------------------------------------------------------
+ → MOTION
+--------------------------------------------------------------------
+  Separates two DIFFERENT sounding chords. Ordinary succession;
+  no analytic claim beyond order.
+
+--------------------------------------------------------------------
+ | PIVOT, DIATONIC              the reinterpretation is mutual
+--------------------------------------------------------------------
+      iii′ᶜ | ii′ᵈ
+
+  ONE sounding chord written twice. Nothing moves across the
+  bar; the same pitches are held or restruck while the ear's
+  reading of them changes. Left of the bar is the departing key,
+  right of it the arriving key.
+
+  The bar also partitions the line: nothing left of it is in the
+  new key, nothing right of it in the old. The raised letters
+  state this independently, so the two check each other.
+
+  The bar asserts BOTH readings are diatonic — neither needs an
+  accidental or a borrowing. The pivot is therefore REVERSIBLE:
+  the same chord would modulate the other direction unaltered.
+
+  Bar pivots reach one or two fifths. See DIAGNOSTICS.
+
+--------------------------------------------------------------------
+ ~ PIVOT, BORROWED             the reinterpretation is one-way
+--------------------------------------------------------------------
+      iiᶜ ~ ivᵃ
+
+  Also one chord written twice, identical to the bar in every
+  respect but one: the right-hand reading is NOT diatonic in its
+  key. It is borrowed from that key's parallel minor.
+
+  In the example, D minor is native to C major. Read as the
+  fourth degree of A major it needs F natural where A major
+  wants F sharp. The chord is a native of the old key and an
+  import into the new one.
+
+  The consequence is asymmetry. A major does not offer this
+  chord natively, so the return trip requires an alteration the
+  outbound trip did not. Bar pivots are reversible; tilde pivots
+  are not.
+
+  What the borrowing buys is distance: three or four fifths
+  against the bar's one or two. Widening the destination key's
+  vocabulary to admit its parallel minor pays for the ground.
+
+  No accidental appears at the tilde, because the borrowed tone
+  is the natural form in the departing key. The first accidental
+  arrives later, in the dominant.
+
+--------------------------------------------------------------------
+ ⇒ CADENTIAL SIX-FOUR
+--------------------------------------------------------------------
+      Vᵈ ⇒ Iᵈ
+
+  Marks the dominant as bearing a cadential six-four: the sixth
+  and fourth above the bass sound first and fall to the fifth
+  and third while the bass is held. ONE harmonic event across
+  two sonorities.
+
+  What actually sounds is the TONIC triad over the dominant
+  bass, arriving two events early and displaced at the next
+  event by the true dominant. The CHORD column shows this (D/A
+  then A, resolving to D); the line compresses it to ⇒.
+
+  The source writes it as two comma-separated chords ("DV⁶₄,
+  DV"), which is the second most common transcription error
+  after uppercase numerals. Joining them is a required edit.
+
+  METRE, not otherwise notated: the six-four takes the stronger
+  beat, its resolution the weaker. Reversed it becomes a passing
+  chord and the cadence collapses. All four entries observe it.
+
+--------------------------------------------------------------------
+ ′  ″  INVERSION
+--------------------------------------------------------------------
+  none   root position        Iᶜ    = C E G,  bass C
+   ′     first inversion      iii′ᶜ = E G B,  bass G
+   ″     second inversion     V″ᶜ   = D G B,  bass D
+
+  prime   figure   bass
+  -----   ------   --------
+  none     ⁵₃      root
+   ′       ⁶ (⁶₃)  third
+   ″       ⁶₄      fifth
+
+  Figures name intervals above the bass; primes count
+  inversions. For TRIADS they always agree.
+
+  SEVENTH CHORDS BREAK THIS. Four positions, and the figures
+  stop counting evenly:
+      root ⁷ (⁷₅₃)   third ⁶₅   fifth ⁴₃   seventh ⁴₂ (²)
+  A third prime would have to mean ⁴₃ and a fourth ⁴₂, which no
+  reader will infer. TRIADS ONLY — if a seventh enters the
+  collection, that entry reverts to figures and says so.
+
+  ⇒ IS NOT AN INVERSION. It is figured ⁶₄ but is a suspension
+  over a held dominant bass, not a second-inversion tonic.
+  Never written V″.
+
+  A prime appears only where the inversion is analytically
+  significant. Its presence is itself a signal: if you see one,
+  look at the bass.
+
+--------------------------------------------------------------------
+ WHAT IS NOT NOTATED
+--------------------------------------------------------------------
+  Voicing, doubling, spacing, register, distribution among the
+  four parts. Rhythm. Metre beyond the six-four convention.
+  Anything the source adds outside the five-event frame.
+  These belong with the score. The line encodes the harmonic
+  argument only.
+
+
+====================================================================
+ 2.  THE TABLE
+====================================================================
+
+   t   CHORD  pitches    in C     in D    comment
+  ──   ─────  ────────  ──────   ──────   ────────────────────────
+  t₁    C     C E G     Iᶜ         ·      tonic of C
+  t₂    Em    E G B     iii′ᶜ    ii′ᵈ     PIVOT
+  t₃    D/A   A D F♯     ✗        Vᵈ      F♯ ends C
+  t₄    A     A C♯ E     ✗        Vᵈ      true dominant
+  t₅    D     D F♯ A     ✗        Iᵈ      arrival
+
+  t         time index; one row per sounding event
+  CHORD     the SONORITY — the keystone. Read this column down.
+            Slash form is chord-over-bass: D/A is a D major
+            triad with A in the bass, NOT an A chord.
+  pitches   its tones, bass first
+  in X      how key X reads the sonority. Both filled = pivot.
+            ·  key not yet entered
+            ✗  foreclosed — a tone foreign to that key has
+               sounded. Permanent; a foreclosed key never
+               returns, so the ✗ run is unbroken to the end.
+  *         appended to a reading: borrowed. Diatonic in the old
+            key, chromatic in the new. Marks a ~ pivot.
+  comment   free text. What the row DOES, not what it is — the
+            other columns already say what it is. Keep it prose;
+            if it starts accruing abbreviations it has become a
+            second notation to learn.
+
+
+====================================================================
+ 3.  MECHANISMS AND DIAGNOSTICS
+====================================================================
+
+  Distance in fifths determines the pivot type:
+
+    ±1   old tonic itself is the pivot          |    diatonic
+    ±2   relative minor of the chord a fifth    |    diatonic
+         above (or below) the old tonic
+    3-4  a minor triad of the old key reheard   ~    borrowed
+         as MINOR SUBDOMINANT of the new
+     0   relative keys; any shared chord        |    free choice
+
+  For the 3-4 case: a minor triad on X is the minor subdominant
+  of the major key a fifth BELOW X.
+        d min = ii  in C  →  iv of A   (+3)
+        a min = vi  in C  →  iv of E   (+4)
+        e min = iii in C  →  iv of B   (+5)
+
+  Beyond +5 expect a chain of pivots.
+
+--------------------------------------------------------------------
+ CHECKS
+--------------------------------------------------------------------
+  MARK vs DISTANCE. A bar should sit at 1-2 fifths, a tilde at
+  3-4. A bar at four fifths, or a tilde at one, means the pivot
+  was misread — usually a borrowed reading taken as diatonic.
+
+  COUNT THE RAISED LETTERS. A line with a single letter of the
+  departing key has no real departure: it opens on its own pivot
+  and never establishes the key it claims to leave.
+
+  GAP. The pivot and the point of no return are not always the
+  same event. Gap = rows from the pivot to the first ✗. A gap of
+  1 is decisive. A larger gap means the named pivot did little
+  and a later chord did the work.
+
+  TWO KINDS OF ⁶₄. The source's ⁶₄ is sometimes an inversion
+  (becomes ′ or ″) and sometimes the cadential suspension
+  (becomes ⇒). They are written identically and mean unrelated
+  things. The cadential one always sits on the dominant
+  immediately before the final tonic.
+
+
+====================================================================
+ 4.  INDEX
+====================================================================
+
+  id   from  to   d    pivot     mark  gap  status
+  ──   ────  ───  ──   ───────   ────  ───  ──────
+  A1   C     G    +1   C major    |     3   done
+  A2   C     D    +2   e minor    |     1   done
+  A3   C     A    +3   d minor    ~     1   done
+  A4   C     E    +4   a minor    ~     1   done
+  A5   C     B    +5   e minor?   ~?    ?   TODO
+  ..
+  B1   G     ..                             TODO
+
+  Group letter = departing key. A = from C major. A5 predicted
+  from the mechanism table; unconfirmed.
+
+
+====================================================================
+ 5.  ENTRIES
+====================================================================
+
+--------------------------------------------------------------------
+ A1   C major → G major                                          +1
+--------------------------------------------------------------------
+   t   CHORD  pitches    in C     in G    comment
+  ──   ─────  ────────  ──────   ──────   ────────────────────────
+  t₁    C     C E G     Iᶜ       IVᵍ      PIVOT at the first event
+                                          — no departure. C is
+                                          never established.
+  t₂    Am    A C E     viᶜ      iiᵍ      also reads both ways
+  t₃    G/D   D G B     V″ᶜ      Vᵍ       also reads both ways.
+                                          A true 2nd-inversion
+                                          dominant in C, but the
+                                          cadential ⁶₄ in G —
+                                          both kinds on one chord
+  t₄    D     D F♯ A     ✗       Vᵍ       F♯ ends C. True dominant.
+                                          The real modulation,
+                                          three rows after the bar
+  t₅    G     G B D      ✗       Iᵍ       arrival
+
+  line   Iᶜ | IVᵍ → iiᵍ → Vᵍ ⇒ Iᵍ
+
+  source [CI (=GIV), GII*), GV⁶₄, GV, | GI]
+         GII → iiᵍ, a minor; caps corrected
+         *) is a footnote mark, not a chord symbol.
+         Text not recovered.  TODO
+
+  note   One ᶜ against four ᵍ. Three rows read both ways, so the
+         source's choice of t₁ as the pivot is not forced. Gap of
+         3: the dominant does the work, not the pivot.
+
+--------------------------------------------------------------------
+ A2   C major → D major                                          +2
+--------------------------------------------------------------------
+   t   CHORD  pitches    in C     in D    comment
+  ──   ─────  ────────  ──────   ──────   ────────────────────────
+  t₁    C     C E G     Iᶜ         ·      tonic of C
+  t₂    Em    E G B     iii′ᶜ    ii′ᵈ     PIVOT — one chord, both
+                                          readings diatonic. Bass
+                                          G steps into the cadence
+  t₃    D/A   A D F♯     ✗        Vᵈ      F♯ ends C. Tonic sonority
+                                          over dominant bass
+  t₄    A     A C♯ E     ✗        Vᵈ      true dominant; 6 and 4
+                                          have fallen to 5 and 3
+  t₅    D     D F♯ A     ✗        Iᵈ      arrival, root position
+
+  line   Iᶜ → iii′ᶜ | ii′ᵈ → Vᵈ ⇒ Iᵈ
+
+  source [CI, CIII (=DII), DV⁶₄, DV, | DI]
+         CIII → iii′ᶜ; prime from the prose, not the symbol
+
+  note   The only prime in group A. Bass G gives G–A–A–D into
+         the cadence; root position would leap E–A–A–D. That is
+         why the source specifies the inversion here and nowhere
+         else. iii is a weak departure — two tones shared with I,
+         two with V — so Iᶜ → iii′ᶜ barely establishes C.
+         Compare t₃ and t₅: D/A and D are the same chord. The
+         tonic arrives early over the wrong bass and is displaced
+         at t₄. That is what ⇒ compresses.
+
+--------------------------------------------------------------------
+ A3   C major → A major                                          +3
+--------------------------------------------------------------------
+   t   CHORD  pitches    in C     in A    comment
+  ──   ─────  ────────  ──────   ──────   ────────────────────────
+  t₁    C     C E G     Iᶜ         ·      tonic of C
+  t₂    Dm    D F♮ A    iiᶜ      ivᵃ*     PIVOT — borrowed. Native
+                                          to C; A wants F♯.
+                                          One-way.
+  t₃    A/E   E A C♯     ✗        Vᵃ      C♯ ends C. Tonic sonority
+                                          over dominant bass
+  t₄    E     E G♯ B     ✗        Vᵃ      true dominant
+  t₅    A     A C♯ E     ✗        Iᵃ      arrival
+
+  line   Iᶜ → iiᶜ ~ ivᵃ → Vᵃ ⇒ Iᵃ
+
+  source [CI, CII (=AIV♮), AV⁶₄, AV, | AI]
+         AIV♮ → ivᵃ. The ♮ is dropped: lowercase iv already says
+         the subdominant is minor, so the sign is redundant here.
+         Source prints "Tonie" for "Tonic".
+
+  note   F♮ is the only tone contradicting A major, and it needs
+         no accidental because it is C major's diatonic form.
+         The first accidental on the page is the C♯ at t₃.
+
+--------------------------------------------------------------------
+ A4   C major → E major                                          +4
+--------------------------------------------------------------------
+   t   CHORD  pitches    in C     in E    comment
+  ──   ─────  ────────  ──────   ──────   ────────────────────────
+  t₁    C     C E G     Iᶜ         ·      tonic of C
+  t₂    Am    A C♮ E    viᶜ      ivᵉ*     PIVOT — borrowed. Native
+                                          to C; E wants C♯.
+  t₃    E/B   B E G♯     ✗        Vᵉ      G♯ ends C. Tonic sonority
+                                          over dominant bass
+  t₄    B     B D♯ F♯    ✗        Vᵉ      true dominant
+  t₅    E     E G♯ B     ✗        Iᵉ      arrival
+
+  line   Iᶜ → viᶜ ~ ivᵉ → Vᵉ ⇒ Iᵉ
+
+  source [CI, CVI (=EIV♮), EV⁶₄, EV, | EI]
+         EIV♮ → ivᵉ, as A3
+
+  note   Four fifths on one chord, the widest reach in the group,
+         paid for by giving up reversibility. vi is the strongest
+         departure available — two tones shared with I but its
+         own root — so Iᶜ → viᶜ establishes C in a way A2 does
+         not.
+
+
+====================================================================
+ 6.  BLANK ENTRY
+====================================================================
+
+--------------------------------------------------------------------
+ __   ______ major → ______ major                                +_
+--------------------------------------------------------------------
+   t   CHORD  pitches    in _     in _    comment
+  ──   ─────  ────────  ──────   ──────   ────────────────────────
+  t₁
+  t₂
+  t₃
+  t₄
+  t₅
+
+  line
+
+  source [...]
+
+  note
+
+--------------------------------------------------------------------
+ CHECKLIST
+   [ ] numerals cased to quality (source writes all caps)
+   [ ] inversions stated in prose carried into primes
+   [ ] "V⁶₄, V" joined into one ⇒
+   [ ] the OTHER ⁶₄, if any, converted to ′ or ″
+   [ ] key prefixes moved behind the numeral and raised
+   [ ] ♮ signs dropped where lowercase already carries them
+   [ ] footnote marks (*) moved out to the source note
+   [ ] CHORD column holds the SONORITY, not the bass note —
+       slash form for inversions
+   [ ] pitches checked against the chord name
+   [ ] distance counted; mark (| or ~) agrees with it
+   [ ] ✗ run unbroken once it starts
+   [ ] gap computed; flag anything above 1
+   [ ] index row added
+====================================================================
