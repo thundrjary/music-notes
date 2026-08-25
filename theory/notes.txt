@@ -341,3 +341,344 @@
 - P4 ↔ P5
 - A4 ↔ d5
 
+# the overtone series: composite sounds and overtones
+- Most musical tones are *composite sounds*: one heard tone contains several vibrations at once.
+- The main vibration gives the pitch we hear and is called the *fundamental tone*.
+- At the same time, parts of the vibrating body can vibrate independently and produce higher tones called *overtones*.
+- The fundamental and its overtones blend together into a single sound.
+- The relative strength of those overtones helps determine *timbre*, or tone color.
+- Their *intensity* means how loud or strong each overtone is.
+- Different instruments can play the same pitch but sound different because their overtones have different intensities.
+- The overtones occur in a regular pattern called the *overtone series*.
+- Each frequency in that series is called a *partial*.
+- The fundamental is the 1st partial.
+- The 1st overtone is the 2nd partial.
+- The 2nd overtone is the 3rd partial, and so on.
+- Higher partials become progressively closer together in pitch and are usually weaker.
+
+- Partial 1 = fundamental
+- Partial 2 = octave above the fundamental
+- Partial 3 = perfect 5th above that octave
+- Partial 4 = two octaves above the fundamental
+- Partial 5 ≈ major 3rd above partial 4
+- Partial 6 ≈ perfect 5th above partial 4
+- The series continues upward with increasingly small intervals between neighboring partials.
+
+# the overtone series and the tonal system
+- The *overtone series* contains several intervals and chords that are important in tonal music.
+- Its lower partials naturally produce the octave, perfect 5th, major 3rd, and major triad.
+- These relationships resemble some of the most stable structures in major-minor tonality.
+- The tonal system does not simply copy the overtone series.
+- Some overtones do not fit ordinary major or minor scales, and some important tonal structures, such as the minor triad, do not arise directly from the series.
+- The overtone series therefore does not provide a complete explanation of tonal harmony.
+- It does, however, parallel several common features of tonal music.
+- Major triads often function as especially stable chords.
+- Perfect 5ths form especially close tonal relationships.
+- Octaves, 5ths, and 3rds are among the most stable intervals.
+- A triad is understood as growing from its *root*, much as overtones arise above a fundamental.
+- These similarities show a strong correspondence between acoustics and tonal practice, but they do not prove that the overtone series caused the tonal system.
+
+# consonance and dissonance: stable and unstable intervals
+- *Consonance* describes intervals that sound stable or at rest.
+- *Dissonance* describes intervals that sound unstable, active, or tense.
+- Here, these terms apply mainly to *vertical intervals*, where both notes sound at the same time.
+- Perfect unisons, perfect octaves, and perfect 5ths are consonant.
+- Major and minor 3rds and 6ths are consonant.
+- 2nds and 7ths are dissonant.
+- Augmented and diminished intervals are dissonant.
+- The perfect 4th can be consonant or dissonant depending on context.
+- Consonant: P1, P8, P5, M3, m3, M6, m6
+- Dissonant: all 2nds, all 7ths, all augmented intervals, all diminished intervals
+- Context-dependent: P4
+
+# consonance and dissonance: the consonant intervals
+- Consonant intervals do not all feel equally stable.
+- The *perfect unison* and *perfect octave* are the most stable because the two notes are identical or differ only by octave.
+- The *perfect 5th* is the next most stable and strongly supports the identity of a chord root and key.
+- Major and minor 3rds are less stable than the 5th but define the quality of major and minor triads.
+- The major 3rd is generally treated as more stable than the minor 3rd.
+- Major and minor 6ths are consonant but more active than 3rds and 5ths.
+- The *perfect 4th* is special because it can function as either consonant or dissonant depending on context.
+- Relative stability: P1/P8 → P5 → M3 → m3 → M6/m6 → P4
+
+# consonance and dissonance: perfect and imperfect consonances
+- Consonances can be divided into *perfect consonances* and *imperfect consonances*.
+- *Perfect consonances* are the unison, octave, and perfect 5th.
+- These intervals sound more stable and are often used at important points of arrival.
+- *Imperfect consonances* are major and minor 3rds and 6ths.
+- These intervals are still consonant, but they sound more active and flexible.
+- Because of this, imperfect consonances are often used while the music is moving from one stable point to another.
+- In two-part writing, perfect consonances are favored at beginnings and endings, while imperfect consonances are common in the middle.
+- Perfect consonances: P1, P5, P8
+- Imperfect consonances: M3, m3, M6, m6
+
+# consonance and dissonance: the dissonant intervals
+- *Dissonant intervals* create tension between two parts rather than acting as stable chord tones.
+- In tonal music, this tension often comes from melodic motion in one or both parts.
+- *Passing tones* create dissonance while moving by step between stable tones.
+- *Neighboring tones* create dissonance while stepping away from a stable tone and returning.
+- Dissonance works most clearly when the melody approaches it by step and leaves it by step.
+- This stepwise motion connects the dissonance closely to the surrounding consonances.
+- The resulting tension gives the melody a sense of direction toward a more stable interval.
+- *Isolated dissonances* lack this clear connection and can sound directionless.
+- Common pattern: consonance → step → dissonance → step → consonance
+
+# consonance and dissonance: dissonance and activity
+- *Active tones* tend to move toward more stable tones.
+- In a major key, scale degrees 2, 4, 6, and 7 are normally active.
+- These tones often form *dissonant intervals* against the stable tones of the tonic chord: 1, 3, and 5.
+- This connects melodic activity with harmonic dissonance.
+- Consonant support can make an active tone sound more stable without removing its tendency to move.
+- A normally stable tone can also become unstable if it forms a dissonance with another part.
+- Stability therefore depends on both the scale degree and the interval it forms with the surrounding music.
+- The strongest sense of rest comes when the music reaches the tonic.
+
+# consonance and dissonance: P4
+- The *perfect 4th* is unusual because it can function as either consonant or dissonant.
+- Earlier music often treated the perfect 4th as a stable consonance.
+- As triadic harmony became more important, the 4th often began to sound active rather than stable.
+- A 4th tends to sound dissonant when it behaves like an upper note that wants to move down to a 3rd.
+- A 4th tends to sound consonant when it functions clearly as the inversion of a stable 5th.
+- In simple two-part writing, the 4th is usually treated as dissonant.
+- In thicker textures, a 4th above the bass is also often treated as dissonant.
+- A 4th can sound consonant when the surrounding harmony makes it part of a stable sonority.
+- P4 = context-dependent
+
+# intervals in a key: intervals between scale degrees
+- A *scale degree* gets part of its character from the intervals it forms with the other notes of the scale.
+- Changing those interval relationships changes how that scale degree sounds and functions.
+- Major and minor differ partly because the tonic forms different intervals with scale degrees 3, 6, and 7.
+- In major, the tonic forms a major 3rd, major 6th, and major 7th with 3, 6, and 7.
+- In natural minor, the tonic forms a minor 3rd, minor 6th, and minor 7th with 3, 6, and 7.
+- These interval differences help give major and minor their different tonal character.
+- Within a *diatonic scale*, every scale degree forms its own pattern of intervals with the other scale degrees.
+- That interval pattern helps give each scale degree its own identity.
+- Two scale degrees can have similar interval patterns without being identical.
+- Diatonic scales produce only certain interval qualities: perfect unisons and octaves; perfect or diminished 5ths; perfect or augmented 4ths; major or minor 2nds, 3rds, 6ths, and 7ths.
+
+# intervals in a key: the diminished 5th and the augmented 4th in major
+- In a major key, scale degrees 4 and 7 are both active tones.
+- Scale degree 4 tends to move down to 3, while scale degree 7 tends to move up to 1.
+- When 4 and 7 sound together, they form a strong dissonance.
+- If 7 is below 4, the interval is a *diminished 5th*.
+- If 4 is below 7, the interval is an *augmented 4th*.
+- These are two forms of the same tension between scale degrees 4 and 7.
+- A *resolution* is the motion of a dissonant interval into a more stable consonance.
+- The diminished 5th resolves inward: 7 → 1 and 4 → 3.
+- The augmented 4th resolves outward: 4 → 3 and 7 → 1.
+- Both resolutions lead to scale degrees 1 and 3, which belong to the tonic triad.
+- This motion strongly points toward the tonic and helps identify the key.
+- A *tritone* traditionally means an augmented 4th spanning three whole steps; the term is also commonly used for the diminished 5th.
+- d5: 7–4 → 1–3
+- A4: 4–7 → 3–1
+
+# intervals in a key: the diminished 5th and the augmented 4th in minor
+- Natural minor contains a *diminished 5th* between scale degrees 2 and 6, or an *augmented 4th* when the notes are reversed.
+- This tritone resolves to scale degrees 3 and 5.
+- Although 3 and 5 belong to the tonic triad, they do not identify the tonic strongly by themselves.
+- Without scale degree 1, scale degree 3 can sound like the root of another triad.
+- Natural minor therefore does not define its tonic as strongly through this tritone as major does.
+- Raising scale degree 7 creates a new tritone between 4 and 7.
+- This tritone resolves to 3 and 1, directly pointing to the tonic triad.
+- Harmonic and melodic minor use this raised 7 to strengthen the sense of key.
+- Ascending melodic minor can also create a tritone between raised 6 and 3, but this has little importance for defining the key.
+- Natural minor tritone: 2–6 → 3–5
+- Raised-7 tritone: 4–7 → 3–1
+
+# intervals in a key: the diminished 7th and the augmented 2nd
+- In harmonic minor, raised scale degree 7 and natural scale degree 6 form a *diminished 7th*.
+- When inverted, the same two scale degrees form an *augmented 2nd*.
+- Both intervals are dissonant and tend to resolve.
+- The diminished 7th resolves to scale degrees 1 and 5, forming a perfect 5th.
+- The augmented 2nd also resolves to 1 and 5, but as a perfect 4th.
+- Because a perfect 5th is normally stable, the diminished 7th resolves more freely.
+- Because a perfect 4th can be dissonant, the augmented 2nd is used more carefully.
+- These intervals have strong *key-defining* power because they occur specifically between natural 6 and raised 7 in minor.
+- Their resolution to 1 and 5 strongly points to the tonic.
+- A diminished 7th can also appear in major through *mixture*, by borrowing scale degree ♭6 from the parallel minor.
+- d7: 7–6 → 1–5
+- A2: 6–7 → 5–1
+
+# the remaining intervals
+- Some less common intervals arise when minor scales or chromatic notes alter the usual diatonic pitches.
+- In minor, scale degree 3 combined with raised 7 can form an *augmented 5th* or, when inverted, a *diminished 4th*.
+- Chromatic alteration can also create a *diminished 3rd* or, when inverted, an *augmented 6th*.
+- One common source is raised scale degree 4 combined with natural scale degree 6.
+- Raised 4 often acts as an active chromatic tone that moves toward 5.
+- These unusual intervals often result from melodic motion rather than from a new harmonic structure.
+- Other augmented or diminished intervals can appear as temporary by-products of chromatic decoration.
+- A5 ↔ d4
+- A6 ↔ d3
+
+# enharmonically equivalent intervals
+- *Enharmonically equivalent intervals* are intervals that sound the same in equal temperament but are spelled differently.
+- Because the notes are spelled differently, the intervals can have different numerical sizes and different qualities.
+- The sounding pitches may match, but the musical meaning does not have to match.
+- In isolation, two enharmonically equivalent intervals are hard or impossible to distinguish by ear.
+- In musical context, their spelling can make them function differently.
+- This is because notation shows how each note relates to the key, the harmony, and the melodic motion.
+- An interval’s name therefore depends on spelling, not only on sound.
+- Same sound does not always mean same interval.
+- Common enharmonic pairs:
+- m3 = A2
+- A4 = d5
+- M6 = d7
+- A6 = m7
+- Rule:
+- Same sounding pitch pair + different spelling = enharmonically equivalent intervals
+- Different spelling can change:
+- interval number
+- interval quality
+- harmonic function
+
+# rhythmic organization: the beat
+- *Rhythm* organizes music in time through duration, accent, and grouping.
+- The basic unit of rhythmic time is the *beat* or *pulse*.
+- A beat is a regularly recurring span of time that provides a framework for rhythm.
+- Notes can last longer than a beat, match the beat, or divide the beat into smaller durations.
+- Note values can be divided into smaller equal parts or combined into larger values.
+- The basic note-value hierarchy divides by two: whole → half → quarter → eighth → sixteenth → thirty-second → sixty-fourth.
+- 1 whole note = 2 half notes = 4 quarter notes = 8 eighth notes = 16 sixteenth notes = 32 thirty-second notes = 64 sixty-fourth notes.
+- Rests use the same duration relationships as notes.
+- A *dot* adds half of a note or rest’s original value.
+- Each additional dot adds half the value added by the previous dot.
+- Dotted note = original + 1/2
+- Double-dotted note = original + 1/2 + 1/4
+- Triple-dotted note = original + 1/2 + 1/4 + 1/8
+- A beat or duration can also be divided into other equal groupings called *tuplets*.
+- A *triplet* divides a duration into three equal parts where two of the same note value would normally fit.
+- Other tuplets can divide a duration into groups such as 5 or 7.
+- The number written over a tuplet identifies the number of notes in the grouping.
+- 3 = triplet
+- 5 = quintuplet
+- 7 = septuplet
+- A *tie* joins notes of the same pitch so they sound as one continuous duration.
+- The duration of tied notes equals the sum of their written values.
+- Ties allow durations to cross beats or bar lines and can make rhythmic grouping easier to see.
+
+# tempo
+- *Tempo* is the pace of the beat.
+- A fast tempo means the beats occur quickly; a slow tempo means they occur slowly.
+- Tempo is determined by the beat, not by the fastest notes in the music.
+- A slow-tempo passage can contain many fast notes between its beats without changing the tempo.
+- Tempo affects the overall rate of musical motion, including how quickly harmonies and melodies progress.
+- Written note values show durations relative to one another, not fixed amounts of time.
+- A quarter note always lasts twice as long as an eighth note and half as long as a half note.
+- The actual duration of those notes depends on the tempo.
+
+# accent
+- *Accent* means emphasis.
+- An accented note stands out more than the notes around it.
+- A performer can create an accent by playing a note louder or by giving its attack more emphasis.
+- Some accents come from the music itself rather than from performance.
+- A long note can sound accented because its duration gives it extra weight.
+- An unusually high or low note can sound accented because it stands out from the surrounding register.
+- A dissonant or chromatic note can sound accented because its tension makes it more noticeable.
+- Accent can therefore come from loudness, attack, duration, register, or harmonic tension.
+
+# meter and metrical accent
+- *Meter* is a repeating pattern of strong and weak beats.
+- A *strong beat* receives more emphasis; a *weak beat* receives less.
+- The position of the strongest beat determines the basic meter.
+- *Duple meter* groups beats in twos: strong–weak.
+- *Triple meter* groups beats in threes: strong–weak–weak.
+- *Quadruple meter* groups beats in fours, with the strongest accent on beat 1 and a weaker secondary accent on beat 3.
+- The strong accent on the first beat of a measure is called the *metrical accent*.
+- Beat subdivisions also have their own accent pattern.
+- The beginning of a beat is stronger than the subdivisions that follow it.
+- In a division by two, the first subdivision is stronger than the second.
+- In a division by three, the first subdivision is stronger than the next two.
+- In slower music, larger subdivisions can develop secondary accents that mirror the meter of the measure.
+
+# time signatures
+- A *time signature* tells how beats are organized into measures.
+- It contains two numbers.
+- The top number usually tells how many beats are in each measure.
+- The bottom number tells which note value represents the beat.
+- Common simple meters use quarter-note beats:
+- 2/4 = 2 beats per measure
+- 3/4 = 3 beats per measure
+- 4/4 = 4 beats per measure
+- Other note values can represent the beat, such as the half note or eighth note.
+- Some meters group beats into larger units.
+- *Compound meter* groups beats into threes.
+- Common compound meters include 6/8, 9/8, and 12/8.
+- In 6/8, the six eighth notes are usually grouped as 3 + 3.
+- At a slow tempo, those six eighth notes may be felt individually.
+- At a faster tempo, 6/8 is usually felt as two large beats, each divided into three parts.
+- Some meters use irregular groupings such as 5 or 7 beats.
+- These often combine groups of 2 and 3.
+- Meter can change during a piece, producing a new time signature.
+
+# rhythmic accent versus metrical accent
+- A *metrical accent* comes from the meter itself: some beats are naturally stronger than others.
+- A *rhythmic accent* comes from the music, such as a long note, loud note, or emphasized attack.
+- Rhythm feels straightforward when rhythmic accents reinforce the strong beats of the meter.
+- *Syncopation* occurs when a rhythmic accent falls on a metrically weak beat or weak part of a beat.
+- One common syncopation begins a note on a weak beat and holds it across the following strong beat.
+- This makes the note’s attack emphasize the weak position while the expected strong beat receives no new attack.
+- Repeated syncopations can create a temporary accent pattern that conflicts with the written meter.
+- In triple or compound meter, accents can regroup the same notes from groups of three into groups of two.
+- This temporary regrouping is called *hemiola*.
+- Hemiola changes the way the meter is felt without necessarily changing the written time signature.
+- Normal alignment: metrical accent + rhythmic accent on the same strong beat
+- Syncopation: rhythmic accent on a weak beat or subdivision
+- Hemiola: 3 + 3 felt temporarily as 2 + 2 + 2
+
+# rhythmic groups
+- A *rhythmic group* is a small pattern of notes heard as one unit.
+- Rhythmic groups help organize the flow of a melody or passage.
+- A rhythmic group can begin on a strong beat.
+- It can also begin on a weak beat or subdivision and continue into a stronger beat.
+- Rhythmic groups do not have to match measure boundaries.
+- A group can extend across a bar line or last for more than one measure.
+- One rhythmic group can connect directly into the next.
+- When the ending of one group also functions as the beginning of the next, the groups *overlap*.
+- Rhythmic grouping therefore describes how notes are heard as phrases or units, not simply how they are divided by bar lines.
+
+# measure groups and phrases
+- Meter can organize not only beats within a measure, but also whole measures into larger groups.
+- In these larger groups, some measures feel stronger and others weaker.
+- A *hypermeasure* is a group of measures that behaves like one large measure.
+- The broader pattern of strong and weak measures is called *hypermeter*.
+- Four-bar hypermeasures are common and often feel like strong–weak–strong–weak.
+- Two smaller measure groups can combine into one larger four-bar group.
+- Three-bar hypermeasures can also occur.
+- A *phrase* is a larger musical unit whose rhythmic grouping also leads toward a tonal goal.
+- A phrase often ends when the harmony or melody reaches a point of arrival.
+- Four-bar and eight-bar phrases are common.
+- Phrases do not have to be symmetrical; five-bar, seven-bar, and other lengths also occur.
+- Beat → measure → hypermeasure → phrase
+
+# rhythm and dissonance treatment: dissonance, duration, accent
+- A *dissonance* gets its effect from how it relates to the consonances around it.
+- Dissonances often arise from stepwise melodic motion.
+- They also tend to occur on shorter notes and in metrically weak positions.
+- This makes the dissonance sound temporary and connected to a more stable goal.
+- *Passing tones* and *neighboring tones* therefore usually occur on weak beats or weak parts of beats.
+- When a passing or neighboring tone falls on a strong metric position, it becomes an *accented passing tone* or *accented neighboring tone*.
+- An *appoggiatura* is an accented dissonant tone that typically arrives on a strong beat and then resolves by step.
+- Accenting or lengthening a dissonance increases its prominence and tension.
+- Weak-position dissonance = less emphasized
+- Strong-position dissonance = accented dissonance
+
+# rhythm and dissonance treatment: suspensions
+- A *suspension* is a dissonance created when a note is delayed into the next harmony.
+- The note begins as part of the earlier harmony and continues into a strong beat where the surrounding harmony has changed.
+- Because the old note is still sounding against the new harmony, it becomes dissonant.
+- The suspended note then moves to the note that normally belongs there, restoring consonance.
+- Suspensions therefore create the pattern: consonance → accented dissonance → consonance.
+- A suspension often comes from *syncopation*: a note begins before a strong beat and is held across it.
+- The suspended note can be tied across the beat or struck again on the strong beat.
+- In music with several parts, a suspension can delay the arrival of one note of a chord while the other chord tones have already arrived.
+- Suspension = delay a note → create tension on a strong beat → resolve to the expected note
+
+# rhythm and dissonance treatment: anticipations
+- An *anticipation* is a note from the next harmony that arrives early.
+- It begins before the strong beat where that note properly belongs.
+- Because the surrounding harmony has not changed yet, the early note may sound dissonant.
+- When the next harmony arrives, the anticipated note becomes consonant.
+- Anticipations therefore create the pattern: early arrival → temporary dissonance → expected harmony.
+- The anticipated note may be held into the new harmony or played again when the new harmony arrives.
+- In textures with several parts, the anticipated note often appears in the highest voice.
+- Anticipation = next chord tone arrives early
