@@ -1,0 +1,343 @@
+# keys
+- A key organizes music around one central note.
+- In C major, C is the central note.
+- The other notes get their functions from how they relate to C.
+- Calling C the central note is only a starting point.
+- To understand key, we must study the specific relationships between C and the other notes.
+
+# tonic
+- The tonic is the main note of a key.
+- Melodies can make us expect a return to the tonic.
+- The tonic can feel like a destination.
+- Delaying that return creates tension.
+
+# scales
+- A key is built mainly from a specific group of notes.
+- A scale arranges those notes in pitch order.
+- The basic scale of a key begins and ends on the tonic.
+- Each note in the scale has a scale degree number.
+- The scale degrees are also named:
+  1 = tonic
+  2 = supertonic
+  3 = mediant
+  4 = subdominant
+  5 = dominant
+  6 = submediant
+  7 = leading tone
+
+# octaves
+- An *octave* is the distance between one note and the next higher or lower note with the same letter name.
+- Notes an octave apart differ in pitch height but still sound closely related.
+- *Octave equivalence* is the idea that notes separated by octaves are treated as versions of the same note.
+- A *register* is the part of the pitch range in which a note occurs.
+- Register notation tells us which high or low version of a note is meant.
+- The same letter name can therefore refer to several pitches in different registers.
+- *Octave* = same note name, higher or lower
+- *Octave equivalence* = different pitch height, same basic note identity
+- *Register* = where the note sits in the overall high-to-low range
+
+# scale
+- A *scale* moves through notes in order from one pitch to the next.
+- The distance from one scale note to the next is called a *step*.
+- A major scale uses two step sizes.
+- A *half step* (*semitone*) is the smaller distance.
+- A *whole step* (*whole tone*) equals two half steps.
+- A *major scale* follows the pattern W–W–H–W–W–W–H.
+- This places the half steps between scale degrees 3–4 and 7–8.
+- A *diatonic scale* is a seven-note scale built from five whole steps and two half steps.
+- The major scale is one kind of diatonic scale.
+- Different diatonic scales place the two half steps in different positions.
+- W = whole step
+- H = half step
+- Major scale = W–W–H–W–W–W–H
+
+# intervals
+- An *interval* is the relationship between two notes.
+- If the notes sound at the same time, the interval is *vertical* or *harmonic*.
+- If the notes sound one after the other, the interval is *horizontal* or *melodic*.
+- The basic size of an interval is found by counting letter names from one note to the other, including both notes.
+- The number of letter names gives the interval number: 2 letters = 2nd, 3 = 3rd, 4 = 4th, and so on.
+- An interval spanning eight letter names is called an *octave*, not an eighth.
+- The interval number does not tell the exact pitch distance.
+- Two intervals with the same number can have different sizes in half steps.
+
+# chords
+- A *chord* is a group of three or more notes heard as one musical unit.
+- A chord can be presented with all its notes sounding at once.
+- A *block chord* has all chord tones sounding at the same time.
+- A chord can also be spread out so its notes sound one after another.
+- A *broken chord* or *arpeggio* presents chord tones one after another while still forming one chord.
+- A *triad* is a three-note chord built from a root, a 3rd above it, and a 5th above it.
+- The *root* is the note that gives the triad its basic identity.
+- If the root is the tonic, the chord is the *tonic triad* or *tonic chord*.
+
+# active tones; stable tones
+- Music often creates a sense that one note is moving toward another.
+- This motion comes partly from how notes function within a key.
+- *Stable tones* sound like points of rest or arrival.
+- *Active tones* sound less settled and tend to move toward more stable tones.
+- The tonic, scale degree 1, is the most stable tone and the strongest goal.
+- Scale degrees 3 and 5 can also sound stable because they belong to the tonic triad.
+- Motion to 3 or 5 can feel settled, but less final than motion to 1.
+- A melody can begin on 3 or 5 and still be in the tonic key.
+- The melodic starting note does not have to be the tonic.
+
+# passive tones; neighboring tones
+- *Stable tones* act as points of rest, while *active tones* tend to move toward them.
+- In a major key, scale degrees 1, 3, 5, and 8 can function as stable tones.
+- Active tones can connect or decorate these stable tones.
+- A *passing tone* fills the stepwise space between two different stable tones.
+- Passing tones create smooth motion from one stable tone to another.
+- A *neighboring tone* moves one step away from a stable tone and then returns to it.
+- An *upper neighbor* moves up by step and returns.
+- A *lower neighbor* moves down by step and returns.
+- Passing and neighboring tones can receive rhythmic emphasis, but their tendency toward a stable tone still shapes how they are heard.
+- A melodic line can connect stable tones even when other notes occur between them.
+- P = passing tone
+- N = neighboring tone
+- UN = upper neighbor
+- LN = lower neighbor
+
+# half steps as melod intensifiers
+- An *active tone* tends to move toward a more *stable tone*.
+- That pull becomes stronger when the two notes are only a half step apart.
+- Half-step motion therefore makes a melodic goal feel more intense and direct.
+- In a major key, scale degree 4 is strongly drawn to 3.
+- Scale degree 7 is strongly drawn to 8, or the tonic.
+- Scale degree 7 is called the *leading tone* because it strongly “leads” into the tonic.
+- These half-step attractions help make the tonic and the key feel clearly established.
+
+# incomplete neighbors; double neighbors
+- A *neighboring tone* normally forms a three-note pattern: stable tone → neighbor → same stable tone.
+- An *incomplete neighbor* omits one of those two connections to the stable tone.
+- It may begin on the stable tone and move away: stable → neighbor.
+- Or it may approach the stable tone from a neighboring note: neighbor → stable.
+- The neighboring note is still understood in relation to that stable tone, even though the full away-and-back pattern is missing.
+- A *double neighbor* surrounds one stable tone with both its upper and lower neighbors.
+- Its basic shape is: stable → upper/lower neighbor → lower/upper neighbor → stable.
+- The two neighbors can appear in either order.
+- IN = incomplete neighbor
+- DN = double neighbor
+
+# transposition; key signatures
+- A *recapitulation* is the return of earlier material near the end of a sonata-form movement.
+- A musical idea can return in a different key.
+- Moving a piece or section into another key is called *transposing*.
+- Transposition keeps the same musical relationships while changing the pitch level.
+- In a major key, the notes must still follow the major-scale pattern W–W–H–W–W–W–H.
+- Sharps or flats are added as needed to preserve that pattern.
+- A *key signature* collects the sharps or flats that normally belong to a key and places them at the beginning of the staff.
+- An *accidental* is a sharp, flat, or natural written beside a note when a pitch differs from the key signature.
+- Major keys with sharps progress upward by 5ths.
+- Major keys with flats progress downward by 5ths.
+- Sharp-key sequence: C → G → D → A → E → B → F♯ → C♯
+- Flat-key sequence: C → F → B♭ → E♭ → A♭ → D♭ → G♭ → C♭
+
+# chromaticism; chromatic half steps
+- *Chromaticism* is the use of notes that do not normally belong to the current key.
+- These outside notes often decorate or strengthen motion within the key rather than change the key itself.
+- A *chromatic passing tone* is an outside note that fills the space between two notes by step.
+- Chromatic passing tones often make melodic motion feel stronger because they create half-step movement.
+- A *chromatic half step* occurs between two notes with the same letter name, such as F–F♯.
+- A *diatonic half step* occurs between two notes with different letter names, such as B–C.
+- A chromatic passing tone can divide a whole step into two half steps.
+- The chromatic note is usually spelled with the same letter name as the diatonic note it alters.
+- Not every chromatic note creates a chromatic half step.
+- Chromatic notes can also use double sharps or double flats when the spelling requires them.
+- Chromatic passing motion: F → F♯ → G
+- Chromatic half step: F → F♯
+- Diatonic half step: B → C
+
+# enharmonics
+- Keyboard instruments commonly use *equal temperament*.
+- *Equal temperament* divides the octave into 12 equal half steps.
+- This tuning makes some differently named notes use the same piano key and sound at the same pitch.
+- Notes with different names but the same pitch are called *enharmonic equivalents*.
+- C♯ and D♭ are enharmonic equivalents.
+- G♯ and A♭ are enharmonic equivalents.
+- The different spellings still matter because they show how a note functions within a key or musical line.
+
+# minor keys
+- A *minor key* is organized around a tonic just as a major key is.
+- The key signature alone does not tell us which note is the tonic.
+- The tonic is identified by how the music centers, begins, ends, and forms its tonic chord.
+- Once the tonic is known, the quality of the tonic triad distinguishes major from minor.
+- The tonic triad contains scale degrees 1, 3, and 5.
+- Major and minor tonic triads keep 1 and 5 the same but change scale degree 3.
+- A *minor key* has a minor 3rd between scale degrees 1 and 3.
+- A *major key* has a major 3rd between scale degrees 1 and 3.
+- The minor 3rd is smaller than the major 3rd.
+- Minor tonic triad = 1–♭3–5
+- Major tonic triad = 1–3–5
+
+# the natural form of minor
+- The *natural minor scale* uses the notes of the minor key signature without chromatic changes.
+- Its defining feature is a minor 3rd between scale degrees 1 and 3.
+- Its half steps fall between 2–3 and 5–6.
+- Its step pattern is W–H–W–W–H–W–W.
+- Scale degrees 1, 3, 5, and 8 can function as stable tones.
+- Scale degree 7 lies a whole step below the tonic, so it does not pull strongly toward 8.
+- For this reason, natural minor scale degree 7 is called the *subtonic*, not the *leading tone*.
+- This weak pull is usually fine when the melody descends because 7 is moving away from the tonic.
+- When the melody rises toward the tonic, composers often raise 7 by a half step.
+- Raising 7 creates the strong half-step motion 7–8 and makes the tonic sound more clearly like a goal.
+- Natural minor: 1–2–♭3–4–5–♭6–♭7–8
+- Half steps: 2–3 and 5–6
+
+# harmonic form of minor
+- The *harmonic minor scale* begins with the natural minor scale and raises scale degree 7.
+- Raising 7 creates a *leading tone* a half step below the tonic.
+- This gives 7 a strong pull toward 8 and supports important harmonic progressions.
+- The rest of the natural minor scale remains unchanged.
+- The raised 7 creates a large gap between scale degrees 6 and 7.
+- That gap is an *augmented 2nd*, equal to three half steps.
+- Because of this gap, harmonic minor can sound less smooth in stepwise melodies.
+- Harmonic minor has half steps between 2–3, 5–6, and 7–8.
+- In some sharp keys, raising 7 requires a double sharp.
+- Harmonic minor: 1–2–♭3–4–5–♭6–7–8
+- Step pattern: W–H–W–W–H–A2–H
+
+# the melodic form of minor
+- The *melodic minor scale* solves a melodic problem created by harmonic minor.
+- Harmonic minor raises scale degree 7, which creates a large gap between 6 and 7.
+- Melodic minor raises scale degree 6 as well as 7 when the scale ascends.
+- Raising 6 removes the augmented 2nd and creates smoother stepwise motion toward the tonic.
+- The ascending melodic minor scale therefore has half steps between 2–3 and 7–8.
+- When the scale descends, 6 and 7 usually return to their natural-minor forms.
+- Ascending melodic minor: 1–2–♭3–4–5–6–7–8
+- Descending melodic minor: 8–♭7–♭6–5–4–♭3–2–1
+
+# the three forms of minor
+- Natural, harmonic, and melodic minor are not three unrelated scales.
+- *Natural minor* is the basic form.
+- *Harmonic minor* is natural minor with scale degree 7 raised.
+- *Melodic minor* changes scale degrees 6 and 7 to create smoother melodic motion.
+- Music in a minor key commonly uses all three forms as needed.
+- Harmony often determines when harmonic minor appears.
+- Melodic direction often determines when melodic minor appears.
+- Ascending lines often use raised 6 and 7.
+- Descending lines often return to the natural minor form.
+
+# key signatures in minor
+- Minor keys use key signatures just as major keys do.
+- A minor has no sharps or flats.
+- Moving upward by 5ths adds one sharp at each new key.
+- Moving downward by 5ths adds one flat at each new key.
+- These accidentals preserve the whole-step and half-step pattern of the natural minor scale.
+- Sharp-side minor keys: A → E → B → F♯ → C♯ → G♯ → D♯ → A♯
+- Flat-side minor keys: A → D → G → C → F → B♭ → E♭ → A♭
+
+# relative major and minor
+- *Relative major* and *relative minor* are a major key and a minor key that share the same key signature.
+- They use the same collection of notes but have different tonics.
+- Because the tonic changes, relative major and minor are different keys.
+- The tonic of the relative minor is scale degree 6 of the major key.
+- The tonic of the relative major is scale degree 3 of the minor key.
+- Major → relative minor: go to scale degree 6.
+- Minor → relative major: go to scale degree 3.
+
+# parallel major and minor; mixture
+- *Parallel major* and *parallel minor* are major and minor keys that share the same tonic.
+- Because they share the same tonic, they feel more closely related than relative major and minor.
+- Their key signatures are different because major and minor use different scale patterns.
+- *Mixture* is the use of notes or chords from the parallel major or parallel minor within the current key.
+- In minor, raising scale degrees 6 and 7 can create notes borrowed from the parallel major.
+- In practice, some theoretical parallel keys are respelled enharmonically to avoid awkward key signatures with double flats or double sharps.
+
+# modes; the diatonic order
+- A *mode* is a scale pattern organized around a particular tonic.
+- The seven diatonic modes all use seven notes and contain five whole steps and two half steps.
+- What changes from one mode to another is where those whole steps and half steps occur.
+- Changing that pattern changes the way the scale is organized around its tonic.
+- The seven modes together form the *diatonic order*.
+- The seven modes are Ionian, Dorian, Phrygian, Lydian, Mixolydian, Aeolian, and Locrian.
+- *Ionian* is the same basic scale form as major.
+- *Aeolian* is the same basic scale form as natural minor.
+- In Baroque through Romantic tonal music, major and minor are the main modes, though other modes can still appear.
+- Diatonic modes: Ionian → Dorian → Phrygian → Lydian → Mixolydian → Aeolian → Locrian
+- A mode is a diatonic scale built from a tonic.
+- All seven diatonic modes use 7 notes, 5 whole steps, and 2 half steps.
+- What changes is the placement of the half steps.
+- Ionian = major
+- Aeolian = natural minor
+- Ionian: 1 2 3 4 5 6 7
+- Dorian: 1 2 ♭3 4 5 6 ♭7
+- Phrygian: 1 ♭2 ♭3 4 5 ♭6 ♭7
+- Lydian: 1 2 3 ♯4 5 6 7
+- Mixolydian: 1 2 3 4 5 6 ♭7
+- Aeolian: 1 2 ♭3 4 5 ♭6 ♭7
+- Locrian: 1 ♭2 ♭3 4 ♭5 ♭6 ♭7
+- Order: Ionian → Dorian → Phrygian → Lydian → Mixolydian → Aeolian → Locrian
+- Major-family reference:
+- Major = Ionian
+- Minor = Aeolian
+
+# tonality
+- *Tonal* music is organized around a central tone.
+- *Tonality* is the system that organizes the other tones around that central tone.
+- Many kinds of music can be tonal, including major, minor, modal, and other tonal systems.
+- What differs between these systems is how the other tones relate to the tonal center.
+- *Major-minor tonality* is the tonal system based specifically on major and minor keys.
+- In this context, *tonal* and *tonality* often refer specifically to major-minor tonality.
+
+# the contrast between major and minor
+- Major and minor often carry different emotional associations.
+- Major is often heard as brighter or more cheerful.
+- Minor is often heard as darker or sadder.
+- These associations are not absolute.
+- A piece’s emotional character also depends on rhythm, melody, harmony, tempo, texture, and context.
+- Major music can sound solemn, and minor music can sound light or playful.
+- Even so, the choice between *major* and *minor* can strongly affect musical character.
+- The association between mode and emotion has existed in Western music theory for centuries.
+- The source suggests that these associations may come partly from the tonal relationships themselves, not only from cultural habit.
+
+# recognizing and constructing intervals: numerical size and quality
+- An *interval* is identified by two things: its *numerical size* and its *quality*.
+- The *numerical size* tells how many letter names the interval spans, counting both notes.
+- The *quality* tells the exact size of that interval in half steps.
+- Intervals can be *horizontal* (*melodic*) when the notes sound one after another, or *vertical* (*harmonic*) when they sound together.
+- Interval qualities are *major* (M), *minor* (m), *perfect* (P), *augmented* (A), and *diminished* (d).
+- Intervals fall into two groups because they use different quality systems.
+- Unisons, 4ths, 5ths, and octaves use *perfect* as their basic quality.
+- 2nds, 3rds, 6ths, and 7ths use *major* and *minor* as their basic qualities.
+- For unisons, 4ths, 5ths, and octaves: perfect → one half step larger = augmented; perfect → one half step smaller = diminished.
+- For 2nds, 3rds, 6ths, and 7ths: major → one half step larger = augmented; major → one half step smaller = minor; minor → one half step smaller = diminished.
+- A useful reference is the major scale built on the lower note.
+- If the upper note belongs to that major scale, 1, 4, 5, and 8 are perfect; 2, 3, 6, and 7 are major.
+- When building an interval, determine the letter name first so the numerical size stays correct.
+- Then adjust the accidental to produce the required quality.
+- Raising the upper note makes an interval larger; lowering it makes the interval smaller.
+- Raising the lower note makes an interval smaller; lowering it makes the interval larger.
+- Perfect group: 1, 4, 5, 8 → d–P–A
+- Major/minor group: 2, 3, 6, 7 → d–m–M–A
+
+# recognizing and constructing intervals: compound intervals
+- A *compound interval* is any interval larger than an octave.
+- Compound intervals keep the same basic interval identity as their simpler form within one octave.
+- Subtracting 7 from a compound interval number gives its simple equivalent.
+- A 9th is a compound 2nd.
+- A 10th is a compound 3rd.
+- An 11th is a compound 4th.
+- A 12th is a compound 5th.
+- A 15th is a compound octave.
+- In practice, many compound intervals are referred to by their simpler names.
+- 9th → 2nd
+- 10th → 3rd
+- 11th → 4th
+- 12th → 5th
+- 15th → octave
+
+# recognizing and constructing intervals: interval inversion
+- *Interval inversion* means moving one note of an interval by an octave so the lower note becomes the upper note, or the upper note becomes the lower note.
+- The inverted interval keeps the same two pitch classes but reverses their positions.
+- An interval and its inversion always add up to 9 by numerical size.
+- This gives the pairs: 1st ↔ 8th, 2nd ↔ 7th, 3rd ↔ 6th, 4th ↔ 5th.
+- Inversion also changes interval quality in a predictable way.
+- *Perfect* remains *perfect*.
+- *Major* becomes *minor*, and *minor* becomes *major*.
+- *Augmented* becomes *diminished*, and *diminished* becomes *augmented*.
+- M3 ↔ m6
+- m3 ↔ M6
+- P4 ↔ P5
+- A4 ↔ d5
+
