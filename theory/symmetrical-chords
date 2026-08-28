@@ -1,0 +1,226 @@
+SYMMETRICAL CHORD CATALOGUE
+===========================
+The pivots for the near-symmetry engine. A chord that sits one or
+two semitones from anything on this list inherits that symmetry as
+an efficient voice leading.
+
+    A -> S -> F(A)      glue, then delete S
+    result: A -> F(A)
+
+What F is depends on which kind of symmetry S has.
+
+    T-symmetric S  ->  smooth link between A and its TRANSPOSITION
+    I-symmetric S  ->  smooth link between A and its INVERSION
+    P-symmetric S  ->  smooth link between A and ITSELF, reordered
+
+
+===========================================================
+PART 1 — TRANSPOSITIONALLY SYMMETRICAL CHORDS
+===========================================================
+A chord unchanged by some Tx. Either it divides the octave evenly,
+or it decomposes into equal-size subsets that do. In 12-TET the
+only options come from divisors of 12: 6, 4, 3, 2.
+
+These are exactly the "limited transposition" collections — fewer
+distinct transpositions means more shared tones between them, and
+that shared material IS the smooth voice leading.
+
+  SET             NAME                 INVAR.  DISTINCT  BUYS YOU
+                                       UNDER   TRANSP.
+  --------------  -------------------  ------  --------  ---------
+  {0,6}           tritone              T6         6      T6 links
+  {0,4,8}         augmented triad      T4         4      T4/T8 links
+  {0,3,6,9}       diminished seventh   T3         3      T3/T6/T9
+  {0,2,6,8}       French sixth (7b5)   T6         6      T6 links
+  {0,1,6,7}       double tritone       T6         6      T6 links
+  {0,2,4,6,8,10}  whole-tone scale     T2         2      T2 links
+  {0,1,4,5,8,9}   hexatonic/aug scale  T4         4      T4/T8 links
+  {0,1,2,6,7,8}   double cluster       T6         6      T6 links
+  {0,1,3,4,6,7,9,10}  octatonic        T3         3      T3/T6/T9
+  chromatic aggregate                  T1         1      everything
+
+THE THREE T6 TETRACHORDS. Any pair of tritones is T6-symmetric.
+Up to transposition there are exactly three:
+
+    {0,1,6,7}   tritones a semitone apart
+    {0,2,6,8}   tritones a whole step apart   (= French sixth)
+    {0,3,6,9}   tritones a minor third apart  (= dim seventh)
+
+You can build a T6-symmetric chord of any size the same way: take
+any set of pitch classes, add the tritone of each.
+
+RULE: the distance you can travel smoothly = the invariance
+interval. Near an augmented triad, major thirds are cheap. Near a
+diminished seventh, minor thirds and tritones are cheap. Near
+whole-tone, whole steps are cheap.
+
+
+===========================================================
+PART 2 — INVERSIONALLY SYMMETRICAL CHORDS
+===========================================================
+Notes arranged around an axis crossing the pitch-class circle at
+two antipodal points. Notes ON the axis are free (they're fixed by
+the inversion); every note OFF the axis needs a partner at the
+mirror position.
+
+    HOW TO BUILD ONE
+    1. choose two antipodal points as axis, e.g. {D, Ab}
+    2. put notes on either axis point, or both, or neither
+    3. for every other note, add its mirror on the far side
+    The axis may fall between the keys (e.g. between Eb and E).
+
+    HOW TO TEST ONE
+    Find c such that (c - x) maps the set to itself.
+    Try c = twice any member, and c = the sum of any two members.
+
+COMMON I-SYMMETRIC SETS
+
+  dyads
+    every dyad is inversionally symmetric — no exceptions
+
+  trichords
+    {0,1,2}   chromatic cluster
+    {0,2,4}   whole-tone trichord
+    {0,3,6}   diminished triad
+    {0,4,8}   augmented triad
+    {0,5,7}   quartal/quintal trichord (sus)
+    {0,2,7}   sus2 / stacked fifth-and-second
+
+  tetrachords
+    {0,3,6,9}   diminished seventh
+    {0,2,6,8}   French sixth
+    {0,1,6,7}   double tritone
+    {0,1,5,6}   "Z-cell" type
+    {0,3,5,10}  quartal tetrachord
+    {0,1,2,3}   chromatic tetrachord
+
+  larger collections
+    whole-tone, octatonic, hexatonic  (T- AND I-symmetric)
+    pentatonic scale                  (axis on its "dorian" note)
+    diatonic scale                    (axis on D in C major)
+    melodic minor / acoustic          (axis on its tonic)
+    any symmetric cluster or mirror voicing
+
+  NOT I-symmetric — worth knowing
+    major and minor triads (they invert INTO each other)
+    dominant seventh, half-diminished, minor seventh
+    harmonic minor, harmonic major
+
+The fact that major and minor are NOT self-symmetric is exactly why
+they're useful: an asymmetric object has a distinct partner to
+travel to.
+
+
+===========================================================
+PART 3 — PERMUTATIONALLY SYMMETRICAL CHORDS
+===========================================================
+"P-symmetric" just means the multiset contains duplicate pitch
+classes. Boring objects; the neighborhoods are not.
+
+    {C, C}          unison / octave doubling
+    {C, C, C}       triple unison
+    {C, C, G, G}    doubled fifth
+    any voicing with doublings
+
+WHAT THEY BUY: an efficient voice leading from a chord to ITSELF,
+reshuffled. This is the mechanism behind cluster music that churns
+internally without progressing anywhere.
+
+    (B, C, Db) -> (C, C, C) -> (C, Db, B)
+    delete middle:  (B, C, Db) -> (C, Db, B)
+
+Nearby chords: chromatic clusters, tight seconds, microtonal
+detunings, tone-cluster textures, anything with two notes within a
+semitone or two of each other.
+
+
+===========================================================
+PART 4 — SYMMETRICAL CHORDS THAT AREN'T ON THE KEYBOARD
+===========================================================
+Critical and easy to miss. The pivot need not be playable. It still
+governs the voice leading of real chords near it.
+
+    5 equal parts   {0, 2.4, 4.8, 7.2, 9.6}
+                    -> the PENTATONIC scale sits near this,
+                       which is why pentatonic collections glide
+                       between transpositions so smoothly
+
+    7 equal parts   {0, 1.71, 3.43, 5.14, 6.86, 8.57, 10.29}
+                    -> the DIATONIC scale sits near this;
+                       the one-note modulation D major -> A major
+                       is this symmetry cashing out
+
+Any n-note chord in 12-TET can be linked to its transpositions by
+efficient voice leading only if it's close to the perfectly even
+n-note division — playable or not.
+
+
+===========================================================
+PART 5 — THE PRACTICAL TABLE
+===========================================================
+Working backwards: your chord, its nearest pivot, what you get.
+
+  YOUR CHORD          NEAREST S           COST   YOU GET
+  ------------------  ------------------  -----  -----------------
+  major triad         augmented triad     1 st   smooth to T4/T8
+                                                 (third relations)
+  minor triad         augmented triad     1 st   smooth to T4/T8
+  major triad         tritone (2-note)    -      smooth T6, but
+                                                 needs an extra voice
+  half-diminished     dim seventh         1 st   smooth to its own
+                                                 inversion = TRISTAN
+  dominant seventh    dim seventh         1 st   smooth to T3/T6/T9
+  dominant seventh    French sixth        1 st   smooth T6 =
+                                                 TRITONE SUBSTITUTION
+  dominant 7 #11      whole-tone          1 st   smooth to T2
+  minor seventh       dim seventh         2 st   weaker link
+  {0,1,4,6} jazz set  double tritone      1 st   smooth T6
+  chromatic cluster   unison / doubling   1 st   smooth to itself
+  pentatonic          5-equal division    -      smooth to T2/T5 etc.
+  diatonic scale      7-equal division    -      one-note modulation
+  quartal voicings    quartal trichord    0-1    already symmetric
+
+Read across: pick the link you want, then find a chord near the
+pivot that produces it.
+
+
+===========================================================
+PART 6 — USING THEM
+===========================================================
+
+FIND THE PIVOT NEAR ANY CHORD YOU LIKE
+    1. write your chord on the pitch-class circle
+    2. ask: which even division, which stacked-tritone set, which
+       mirror set is one or two semitones away?
+    3. that chord tells you the chord's secret smooth exits
+
+THE EXTRA-VOICE TAX
+When a larger chord borrows a smaller chord's symmetry, you must
+add a voice. A triad exploiting the tritone's T6 symmetry becomes
+four-voice:
+
+    (C, C, F, F#) -> (C, C, F#, F#) -> (B, C#, F#, F#)
+    tonal case: (C, C, E, G) -> (A, C, F, F)
+
+Budget the doubling in advance rather than discovering it.
+
+THE AMBIGUITY TAX
+T-symmetric chords are rootless and centrically weak by
+construction — that's the same property that makes them good
+pivots. Augmented triads and diminished sevenths point everywhere,
+so they point nowhere. Whole-tone has no leading tone. Pass through
+them; don't camp on them unless dissolved centricity is the goal.
+
+    to MOVE, use symmetry
+    to ARRIVE, use asymmetry
+
+DELETE THE PIVOT
+The point of the gluing trick is that S disappears. If you actually
+sound the augmented triad or diminished seventh every time, the
+progression turns into nineteenth-century cliché. Compute with the
+pivot, then write the two chords on either side of it.
+
+THE CONVERSE, AS A DIAGNOSTIC
+If you want a smooth link between a chord and its transposition or
+inversion and cannot find one, the chord isn't near any symmetry.
+No amount of revoicing will fix it. Change the chord.
