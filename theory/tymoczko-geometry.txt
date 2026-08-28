@@ -231,3 +231,679 @@ twentieth combines those techniques with constrained collections.
 CAVEAT: this is a compositional and theoretical framework, not an
 established psychological theory. Tymoczko leaves the empirical
 psychology to specialists.
+
+TYMOCZKO CH. 2 — HARMONY AND VOICE LEADING
+==========================================
+
+WHAT THE CHAPTER IS FOR
+-----------------------
+Musical set theory tries to catalogue every chord available to a
+composer. That turns out to be harder than it looks, because:
+
+    - chords have a real geometry, and distance in it is
+      voice-leading size
+    - "transposition," "inversion," "triad," "chord type" are all
+      relative to a scale; two chords can share a category in one
+      scale and not another
+    - chord tones differ in importance (rootedness, centricity)
+    - the objects being compared can themselves be progressions
+
+So the chapter rebuilds the machinery from the ground up, and ends
+at one result: acoustic consonance, efficient voice leading, and
+harmonic consistency are three faces of the same fact.
+
+
+1. LINEAR PITCH SPACE
+---------------------
+Pitched sound is periodic; frequency = 1/t. Listeners track ratios
+between frequencies, not absolute positions — transpose a tune and
+every frequency is multiplied by the same c.
+
+Ratios are awkward, so take a logarithm:
+
+    p = 69 + 12 * log2(f/440)
+
+Now distance is subtraction, |p - q|, not division. The unit is the
+semitone; middle C = 60; A440 = 69. The space is continuous, so
+60.17 is a real address (17 cents above middle C). Letter names are
+just shorthand for these numbers.
+
+
+2. CIRCULAR PITCH-CLASS SPACE
+-----------------------------
+Octave-related pitches share a quality (chroma). Ignore octave
+information and the line curls into a circle: pitch class.
+
+Pitch-class space is not a separate space — it is made from pitch
+space by discarding information, so it inherits names, "above,"
+"below," and distance. Distance between two pitch classes = the
+shortest distance between any two pitches belonging to them.
+
+    Analogy: pitch class : pitch  ::  time of day : time
+    "C to C# is one semitone" is "8am to 9am is one hour" —
+    one statement summarizing infinitely many.
+
+INTERVALS AS PATHS. Tymoczko's unusual move: an interval is a path,
+not just a destination.
+
+    C ---(+4)---> E     four semitones clockwise
+    C ---(-8)---> E     eight semitones counterclockwise
+
+Both land on E. They are different intervals. Paths may even wrap
+the circle more than once. Traditional theory ("go from C to E
+however you like") cannot express why the ascending-4 cases in
+different octaves are closely related and the descending-8 case
+is not.
+
+
+3. TRANSPOSITION AND INVERSION
+------------------------------
+Only two transformations preserve distance:
+
+    transposition  Tx(p) = p + x            translation / rotation
+    inversion      Ixy(p) = (x + y) - p     reflection
+
+Transpositions have a size, and size is audible: five octaves is
+obvious, 0.00001 semitone is not. Inversions have no size — for any
+distance, some pair moves by it — but they reverse direction, so
+they change character more dramatically than transposition.
+
+Every pitch inversion has one fixed point, possibly between the
+keys; each note moves twice its distance from it. Every pitch-class
+inversion fixes two antipodal points on the circle.
+
+Inversionally related chords still sound broadly alike: major and
+minor triads differ, but both sit far from a chromatic cluster.
+
+
+4. MUSICAL OBJECTS AND THE OPTIC SYMMETRIES
+-------------------------------------------
+Understanding music is discarding information. Formally: define
+symmetry operations that leave an object's identity intact; objects
+related by them form an equivalence class.
+
+Start with a basic musical object — an ordered series of pitches,
+uninterpreted, e.g. (C4, E4, G4). Absent symmetries, it is utterly
+unrelated to (E4, C4, G4).
+
+Five operations (OPTIC):
+
+    O  octave        move any one note to another octave
+    P  permutation   reorder which voice has which note
+    T  transposition move all notes equally
+    I  inversion     turn the object upside down
+    C  cardinality   duplicate a note into a new voice
+
+Rameau's chord = classify by pitch-class content, ignoring order
+and register = the OPC class. Hence {C, E, G}.
+
+    Term                            Symmetry
+    ------------------------------  --------
+    chord                           OPC
+    chord type (transp. set class)  OPTC
+    set class                       OPTIC
+    multiset of pitch classes       OP
+    chord of pitches                PC
+    tone row (ordered pc set)       OC
+
+Geometrically: same chord type = one rotates into the other on the
+pitch-class circle, so they share the same sequence of adjacent
+distances. Major triads read 4-3-5 clockwise from the root; minor
+reads 4-3-5 counterclockwise from the fifth. Same set class = same
+arc sequence, either direction.
+
+There is no single correct level of abstraction. Different purposes
+need different information; all 32 combinations of OPTIC mean
+something.
+
+
+5. VOICE LEADINGS VS. CHORD PROGRESSIONS
+----------------------------------------
+Now treat progressions — sequences of objects — as objects in their
+own right. The wrinkle: each symmetry can now be applied two ways.
+
+    uniform     same operation to both chords
+    individual  different versions to each chord
+
+Two categories matter most:
+
+    voice leading      -> uniform P
+                          maps notes to notes; keeps voice identity
+                          notated with a single arrow  ->
+
+    chord progression  -> individual P and C
+                          harmonies only, no mapping of notes
+                          notated with a double arrow  =>
+
+    "move C major to C# diminished by raising C a semitone"
+        = voice leading
+    "move C major to C# diminished however you like"
+        = chord progression
+
+A PITCH-CLASS VOICE LEADING drops octaves but keeps the paths:
+
+    (G, G, B, D, F) --(5, 0, 1, -2, -1)--> (C, G, C, C, E)
+
+Same schema in any register. But G moving -7 instead of +5 is a
+different voice leading: the path matters. Numbers are omitted when
+every voice moves within -6 < x <= 6 (tritones ascend by fiat).
+
+These abstract schemas are what a composer actually stores — "you
+turn C major into F major by moving E up a semitone and G up two."
+Memorizing every registral instance separately would be impossible.
+
+    Term                              Symmetry
+    --------------------------------  -----------
+    voice leading in pitch space      uniform P
+    voice leading in pc space         uniform OP
+    pitch-space chord progression     individual PC
+    chord progression                 individual OPC
+    path in pitch-class space         uniform O
+
+
+6. COMPARING VOICE LEADINGS
+---------------------------
+UNIFORM T-RELATED: same pattern at a new level.
+
+    (C, E, G) -> (C, F, A)
+    (G, B, D) -> (G, C, E)
+
+INDIVIDUAL T-RELATED: each chord transposed differently.
+
+    (C, E, G) -> (C, F, A)     [transpose 1st by 7, 2nd by 6]
+    (G, B, D) -> (F#, B, D#)
+
+Uniform I-related voice leadings are mirror images: same distances,
+reversed directions. Useful practically — the semitonal voice
+leadings between major and minor triads come in I-related pairs,
+which halves what you have to remember.
+
+WHY INDIVIDUAL RELATEDNESS EARNS ITS KEEP. It names
+similarity-with-difference that is otherwise hard to state.
+
+    Tristan opening: half-diminished slides to a dominant seventh
+    Brahms Op. 76/4 and Debussy's Faune do the same thing with the
+    second chord transposed up a semitone (Debussy also moves the
+    whole thing by tritone and revoices).
+
+All three: a two-semitone voice leading between half-diminished and
+dominant seventh, root to root, third to third, fifth to fifth,
+seventh to seventh. What was borrowed is not the progression but
+the schema — theoretically savvy theft.
+
+It also explains sequences that break their own pattern: Mozart's
+C minor Fantasy ends a descending sequence on F#7 instead of the
+expected F7, and Beethoven Op. 31/3 inserts a second into a chain
+of thirds. The voice leadings stay structurally analogous, so the
+ear hears continuity where strict transposition has been abandoned.
+
+
+7. VOICE-LEADING SIZE
+---------------------
+Polyphony = independent melodies articulating efficient voice
+leadings between meaningful harmonies. That requires comparing
+sizes. But is (C,E,G)->(Db,F,Ab) bigger or smaller than
+(C,E,G)->(C,E,A)? The first moves more total distance; the second
+has a larger maximum single move.
+
+Theorists have proposed many precise metrics and practice cannot
+adjudicate between them, so Tymoczko stays neutral. A metric is
+"reasonable" if:
+
+    1. it depends only on how far individual voices move,
+       with more motion meaning a larger voice leading
+    2. voice leadings with crossings are no smaller than their
+       uncrossed alternatives
+
+The second encodes a division of labor: prefer many voices moving a
+little to few voices moving a lot. No composer or pedagogue has
+ever proposed a measure violating either.
+
+These two constraints alone already imply real results — e.g. the
+more evenly a chord divides the octave, the smaller the voice
+leadings to its transpositions; and E and Ab major are the major
+triads nearest C major. So most of the book can say "small" and
+"large" without picking a metric. Read "efficient voice leading"
+as "all voices move short distances."
+
+
+8. NEAR IDENTITY
+----------------
+Exact equivalence is too rigid. A pure fifth, an equal-tempered
+fifth, and a meantone fifth belong to different chord types under
+strict definitions, though musicians treat them as versions of one
+object. Likewise {C,E,G,Bb} and {C,Eb,G,Bb} are obviously more
+alike than either is to {F#,G,Ab,A}.
+
+Identity is one end of a continuum — and the continuum tracks voice
+leading. Tiny voice leading to the just-intonation version;
+moderate to the minor seventh; large to the cluster.
+
+So define nearness by voice leading, and extend it:
+
+    two chord types are similar if some transpositions of them are
+    linked by a small voice leading
+
+    C diminished is NEARLY TRANSPOSITIONALLY related to F minor
+    {C,Db,G} is NEARLY INVERSIONALLY related to {Eb,G,A}
+
+Chapter 3 makes this literal: there are geometrical spaces in which
+distance between chords IS minimal voice-leading size.
+
+
+9. THE CENTRAL RESULT — NEAR SYMMETRY
+-------------------------------------
+The question: when can harmonic consistency and efficient voice
+leading coexist? Chapter 1 answered "when a chord divides the
+octave very evenly or very unevenly." The real answer is broader:
+
+    ONLY NEARLY SYMMETRICAL CHORDS CAN DO BOTH.
+
+A chord near a perfectly symmetrical chord inherits that symmetry
+as efficient voice leading. The proof is a gluing argument, and it
+runs identically for all three symmetries:
+
+    A -> S            small, since A is near S
+    F(A) -> F(S) = S  apply F uniformly; S is F-symmetric
+    retrograde and glue:  A -> S -> F(A)
+    delete the middle:    A -> F(A)   still small
+
+TRANSPOSITIONAL. Symmetric chords either divide the octave evenly
+or decompose into equal subsets that do ({B,C,F,F#} = two tritones).
+
+    C major is near the C augmented triad
+    (C, E, G) -> (C, E, G#) -> (B, E, G#)
+    therefore  (C, E, G) -> (B, E, G#)   C major near E major
+
+Same argument with {C,E,F#,B} near the two-tritone {B,C,F,F#} gives
+the efficient tritone link behind jazz tritone substitution.
+
+Limiting case: as A approaches exact T-symmetry, the voice leading
+A -> Tx(A) shrinks to zero.
+
+Cost note: when a larger chord exploits a smaller chord's symmetry,
+it must pay in extra voices. Hence tonal routines like
+(C, C, E, G) -> (A, C, F, F). The major triad is special not only
+for near-evenness but for being reasonably close to the tritone.
+
+INVERSIONAL. Symmetric chords arrange their notes around an axis
+through two antipodal points.
+
+    (C, D#, E) -> (C, D, E) -> (C, Db, E)
+    therefore  (C, D#, E) -> (C, Db, E)
+
+Real case: F half-diminished is a semitone from a diminished
+seventh; invert that voice leading and E7 is too. Glue, delete the
+diminished chord, and you have the Tristan progression. The famous
+gesture exploits the near I-symmetry of those two chord types.
+
+PERMUTATIONAL. "Permutationally symmetrical" just means the chord
+has duplicate notes, like {C,C,C}. Nearby chords are the clusters.
+
+    (B, C, Db) -> (C, C, C) -> (C, Db, B)
+    therefore  (B, C, Db) -> (C, Db, B)
+
+An efficient voice leading from a chord to ITSELF, reshuffled. That
+is why clusters support internal motion without progression.
+
+    T near-symmetry -> efficient VL between transpositions
+    I near-symmetry -> efficient VL between inversions
+    P near-symmetry -> efficient VL from a chord to itself
+
+THE CONVERSE HOLDS. If A connects efficiently to some transposition
+or inversion of itself, A is nearly symmetrical under T, I, or P.
+These three are the only symmetries there are. So every instance of
+efficient voice leading between structurally similar chords, in any
+scale or tuning, reduces to them — which is what lets Part II read
+centuries of Western practice as variants of one technique.
+
+CAUTION: the relevant symmetrical chord may not exist on your
+keyboard. The pentatonic {0,2,5,7,10} is near the perfectly even
+five-note division {0, 2.4, 4.8, 7.2, 9.6}, which is unplayable in
+twelve-tone equal temperament — yet it is why the pentatonic links
+smoothly to its transpositions. Understanding the discrete universe
+requires the continuous space it sits inside.
+
+
+10. ACOUSTIC CONSONANCE = NEAR EVENNESS
+---------------------------------------
+Fourier: any periodic function is a sum of sine waves at integer
+multiples of a fundamental. In sound these are partials.
+
+Helmholtz: two pitches are consonant when their partials align or
+are far enough apart not to interfere; dissonance is roughness from
+partials close but misaligned. The basilar membrane does roughly
+this decomposition. Broadly accepted, if incomplete.
+
+Western instruments have strong low partials, so partials match at
+simple whole-number ratios — 2:1, 3:2, 4:3, 5:4, 6:5. A larger
+chord is consonant when it is rich in consonant intervals, and that
+requires its notes to be spread fairly evenly around the circle.
+
+The elegant part: the major triad is the first three distinct pitch
+classes of the harmonic series, 3:4:5, which divides the octave in
+FREQUENCY space exactly evenly. Take the logarithm into pitch space
+and exact evenness becomes near evenness — arcs of about 5, 4, 3
+semitones. Consonance implies near evenness (not the reverse).
+
+
+THE PAYOFF
+----------
+The basic sonorities of Western music are optimal twice over, for
+unrelated reasons:
+
+    as objects  -> acoustically consonant, pleasing in themselves
+    as nodes    -> nearly even, hence linked to their transpositions
+                   by efficient voice leading
+
+Tymoczko's parable: ask God for chords that let you combine
+efficient voice leading with harmonic consistency, and you get the
+perfect fifth, major triad, dominant seventh. Ask instead for
+chords that simply sound good, and you get the same suitcase.
+
+Hence Western counterpoint is a lucky accident. Musicians chose
+consonant chords because they sounded restful. Only later did it
+emerge that those same chords could carry harmonically consistent
+polyphony — and centuries of contrapuntal technique followed from
+a coincidence that we can now explain as a consequence of the
+hidden symmetries of circular pitch-class space.
+
+COMPOSER'S CHEATSHEET — TYMOCZKO, CH. 1-2
+=========================================
+Practical extractions. Everything here is something you can do at
+the keyboard or on the page.
+
+
+I. THE FIVE DIALS
+-----------------
+Every piece is a setting of five independent controls. Set them
+deliberately; don't inherit them from habit.
+
+    melodic smoothness      how far individual voices move
+    consonance level        how restful the sonorities are
+    harmonic consistency    how much chords resemble each other
+    macroharmony size       how many pitch classes are in play
+    centricity              how strongly one pitch is home
+
+TIP: To generate a style, freeze four dials and sweep one.
+TIP: To fix a passage that sounds muddled, find the dial you're
+     accidentally moving and lock it.
+TIP: "Atonal" usually just means low centricity + low harmonic
+     consistency. You can drop either one alone.
+
+
+II. VOICE-LEADING FIRST
+-----------------------
+Harmony is the residue of simultaneous melodies. Stop composing
+chord-then-chord.
+
+For every change, run this checklist BEFORE naming anything:
+
+    which notes stay?
+    which move by semitone?
+    which move by whole step?
+    which are forced to leap?
+
+TRICK — the three-question test for any surprising chord:
+    1. which voices moved, and how little?
+    2. which pitches were held?
+    3. what chord type survived?
+Only after those three, reach for a label.
+
+TRICK — division of labor: many voices moving a little beats few
+voices moving a lot. If one voice is jumping a seventh, look for a
+rewrite where three voices move by two or three semitones instead.
+This is also the rule that makes voice crossings expensive.
+
+TRICK — the path matters, not just the destination. C up 4 to E and
+C down 8 to E are different musical events. When a line's direction
+is the point, write the path, not the interval.
+
+
+III. CHOOSE CHORDS BY WHAT THEY CAN BECOME
+------------------------------------------
+Chord structure determines available exits. Ask affordance, not
+just color.
+
+    NEARLY EVEN chords (triads, dom7, pentatonic, diatonic)
+        -> smooth motion to their own transpositions
+        -> good for progression, modulation, chromatic drift
+
+    CLUSTERED chords (B-C-Db)
+        -> smooth motion to reorderings of themselves
+        -> good for internal activity WITHOUT progression,
+           texture, stasis, shimmer
+
+    IN BETWEEN (whole-tone, oct subsets, {C,D,E})
+        -> smooth motion to specific inversions/transpositions
+        -> good for controlled, limited-move harmonic worlds
+
+If your harmony feels stuck, you may have chosen a sonority whose
+exits you don't actually want.
+
+
+IV. THE NEAR-SYMMETRY ENGINE (the single most usable trick)
+-----------------------------------------------------------
+This is a recipe for generating smooth, unusual progressions on
+demand. It works every time.
+
+    STEP 1  Pick a perfectly symmetrical chord S.
+              augmented triad          {C, E, G#}
+              diminished seventh       {C, Eb, F#, A}
+              whole-tone collection
+              two stacked tritones     {B, C, F, F#}
+              a unison/doubling        {C, C, C}
+              an inversional axis chord {C, D, E}
+
+    STEP 2  Find chord A a semitone or two away from S.
+
+    STEP 3  Apply your transformation F (a transposition, an
+            inversion, or a reordering) to the whole voice leading.
+
+    STEP 4  Glue A -> S -> F(A), then delete S.
+
+    RESULT  A -> F(A), an efficient voice leading you probably
+            wouldn't have found by ear.
+
+WORKED EXAMPLES YOU CAN STEAL:
+
+    via augmented triad
+        C major -> E major, one voice by semitone, two held
+        (this is the whole Romantic third-relation vocabulary)
+
+    via diminished seventh
+        F half-dim -> E7    (the Tristan move)
+
+    via two tritones
+        {B,C,E,F#} -> its tritone transposition
+        (this is the jazz tritone substitution)
+
+    via doubled note
+        {B,C,Db} -> itself, reshuffled
+        (cluster music that moves without going anywhere)
+
+RULE OF THUMB: any chord that sits within a semitone or two of a
+symmetrical chord will have a secret smooth exit. Go hunting for
+the symmetrical chords near your favorite sonorities.
+
+COST: when a bigger chord borrows a smaller chord's symmetry, you
+must add a voice. Budget for the doubling. Example:
+(C, C, E, G) -> (A, C, F, F).
+
+CONVERSE, useful as a diagnostic: if you WANT a smooth link between
+a chord and its own transposition or inversion and can't find one,
+the chord isn't near any symmetry. Change the chord, not the
+voice leading.
+
+
+V. SEPARATE COLLECTION FROM CENTER
+----------------------------------
+Three different questions, asked independently:
+
+    SCALE        what counts as a step here?
+    MACROHARMONY which pitch classes are actually live right now?
+    CENTER       which pitch feels like home?
+
+Any combination is available:
+
+    small collection + strong center      diatonic tonality
+    small collection + weak center        modal/impressionist float
+    chromatic + strong center             late Wagner, Chopin
+    chromatic + weak center               atonality
+
+GENERALIZED KEY = collection + center. Major and minor are two
+entries in a large catalogue:
+
+    D dorian on D          D dorian on F
+    whole-tone on E        octatonic on C#
+    melodic minor on Bb    pentatonic on any of its five notes
+
+TRICK: keep the collection and move the center. Same notes,
+completely new light. Cheapest color change available.
+
+
+VI. WORK IN A CONSTRAINED PITCH UNIVERSE
+----------------------------------------
+Tonal music typically holds 5-8 pitch classes over a moderate span.
+Color comes from working the collection, not escaping it.
+
+    choose an interesting 6-8 note universe
+    exhaust its subsets, voicings, registers, doublings, centers
+    THEN move one note
+
+That one changed note will feel enormous — precisely because you
+earned it. If you add chromatic notes constantly, none of them
+lands.
+
+
+VII. MODULATION IS VOICE LEADING, ZOOMED OUT
+--------------------------------------------
+    chord A      -> move a few voices     -> chord B
+    collection A -> move one or two pitches -> collection B
+
+    D major:  D E F# G  A B C#
+    A major:  A B C# D  E F# G#
+    difference:  G -> G#
+
+Compose modulations the way you compose chord changes: minimum
+displacement, maximum common tone.
+
+DEBUSSY MOVE: don't modulate the theme — move ONE pitch under it
+and let the theme's whole harmonic world change around it.
+
+The same discipline applies at every level. Ask, of each span:
+    what changed in this beat?
+    in this measure?
+    in this phrase?
+    in this section?
+Good answers at every resolution: small displacement, retained
+common material, controlled introduction of the new.
+
+
+VIII. HOLD THE LANGUAGE, MOVE THE VOICES
+----------------------------------------
+Harmonic consistency is family resemblance, not repetition. Pick a
+sonority vocabulary and voice-lead through it:
+
+    triads / seventh chords / dominant-family / quartal /
+    clusters / extended tertian
+
+You can travel enormous harmonic distances and still sound
+coherent, as long as the vertical TYPE stays recognizable.
+
+ANTI-PATTERN: switching chord construction whenever you want more
+color. That reads as loss of nerve, not as development.
+
+The whole extended common practice is one recipe:
+    make every horizontal line convincing
+    while keeping the vertical sonorities related
+Only the definition of an acceptable vertical sonority changes,
+from Palestrina to Ligeti.
+
+
+IX. STEALING WITHOUT GETTING CAUGHT
+-----------------------------------
+Borrow the SCHEMA, not the progression. Take a voice leading you
+love and transpose only the second chord. Structurally analogous,
+audibly new.
+
+    Tristan:  half-dim -> dom7, two-semitone motion
+    Brahms and Debussy: same schema, second chord up a semitone
+    (Debussy also moves the whole thing by tritone and revoices)
+
+Same trick rescues sequences that need to break pattern: keep the
+voice leadings structurally analogous and the ear hears continuity
+even when exact transposition has been abandoned. Mozart's C minor
+Fantasy ends on F#7 where F7 was expected; nobody flinches.
+
+
+X. WHY THE OLD CHORDS WORK
+--------------------------
+Consonant sonorities are optimal twice, for unrelated reasons:
+
+    they sound restful in themselves (aligned partials, simple
+    ratios: 2:1, 3:2, 4:3, 5:4, 6:5)
+
+    they divide the octave nearly evenly, so they connect to
+    their own transpositions efficiently
+
+Practical consequence: if you want smooth transposition-to-
+transposition motion in a new harmonic language, choose sonorities
+that are NEARLY EVEN, whether or not they're consonant. Evenness,
+not consonance, is what buys you the voice leading.
+
+Corollary: the relevant symmetrical chord need not be playable. The
+pentatonic works because it's near a perfectly even five-note
+division that doesn't exist in twelve-tone equal temperament. Think
+in continuous space even when writing for piano.
+
+
+XI. WORKING DISCIPLINE
+----------------------
+    ANALYZE TECHNICALLY, COMPOSE PERCEPTUALLY.
+
+The listener hears arrival, tension, brightness, distance, stasis.
+They do not hear "common-tone retention 75%." Use the theory to
+generate and control possibilities. Then judge by ear. An elegant
+mechanism that sounds bad is a bad mechanism.
+
+
+QUICK REFERENCE — FOUR PRINCIPLES
+---------------------------------
+    1. MINIMIZE MOTION.
+       Voices want short, intelligible paths.
+
+    2. PRESERVE SOMETHING WHILE CHANGING SOMETHING.
+       Hold common tones, sonority type, collection, or center
+       steady while one other variable moves.
+
+    3. SEPARATE COLLECTION FROM CENTER.
+       What notes exist? Which one is home? Two questions.
+
+    4. APPLY THE SAME THINKING AT EVERY SCALE.
+       Notes into notes, chords into chords, collections into
+       collections, regions into regions.
+
+
+DRILL LIST — WHAT TO MAKE AUTOMATIC
+-----------------------------------
+    hear chords as moving voices, not blocks
+    spot common tones, semitones, whole steps instantly
+    track smoothness separately in soprano, inner voices, bass
+    name the current sonority family without thinking
+    know the live collection without assuming its tonic
+    hear the center independently of the collection
+    notice the single note that replaced the whole collection
+    hear modulation as voice leading between collections
+    identify the symmetrical chord nearest any sonority you use
+    understand a chord by what it can become
+    read chromatic notes as voice-leading events, not departures
+    prefer small changes with large color consequences
+
+
+CAVEAT
+------
+This is a compositional and theoretical framework, not a
+psychological theory. Tymoczko explicitly leaves the empirical
+listening research to specialists. Treat these as generative tools,
+not as claims about what audiences perceive.
