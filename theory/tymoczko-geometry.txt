@@ -1,0 +1,233 @@
+TYMOCZKO — TONALITY AS INTERACTING CONSTRAINTS
+==============================================
+
+CENTRAL CLAIM
+-------------
+Tonality is not a list of chord progressions or rules. It is a system
+for creating coherence out of several constraints acting at once.
+
+
+THE FIVE COMPONENTS
+-------------------
+1. Conjunct melodic motion   — lines move short distances
+2. Acoustic consonance       — some sonorities feel stable
+3. Harmonic consistency      — successive chords belong to one family
+4. Limited macroharmony      — a small pitch reservoir over a span
+5. Centricity                — some pitch acts as home
+
+Treat these as knobs, not requirements:
+
+    melodic smoothness
+    harmonic consonance
+    harmonic similarity
+    pitch-collection limitation
+    tonal-center strength
+
+Styles differ by knob setting. This is far more general than
+"tonal = V-I, atonal = no V-I."
+
+
+1. VOICE LEADING IS THE DEEPEST ORGANIZING PRINCIPLE
+----------------------------------------------------
+Efficient voice leading = conjunct motion in all voices at once.
+Harmony is the byproduct of simultaneous melodies, not a sequence
+of vertical objects. Counterpoint and harmony constrain each other
+and cannot be separated.
+
+Instead of reading:   Cmaj -> Abmaj -> Emin -> Fmin
+ask:                  what stays? what moves by semitone?
+                      what moves by whole step? what must leap?
+
+At the keyboard, see this:
+
+    C  E  G
+    |  |  |
+    B  F  G
+
+before deciding on a Roman numeral.
+
+
+2. A CHORD HAS MOTION AFFORDANCES
+---------------------------------
+Chord structure determines which paths lead out of it.
+
+    clustered (B-C-Db)      -> internal motion, stasis, texture,
+                               activity without progression
+    even/distributed (CEG)  -> smooth harmonic change, chromatic
+                               transformation, progression
+
+So don't only ask "what color is this chord?"
+Ask "what can this chord easily become?"
+
+
+3. SCALE, MACROHARMONY, AND CENTER ARE THREE DIFFERENT THINGS
+-------------------------------------------------------------
+    Scale        = the ruler. Defines what counts as a step, so the
+                   same interval spans different step-counts in
+                   different scales.
+    Macroharmony = the reservoir. Which pitch classes have actually
+                   sounded across this span.
+    Centricity   = the gravity. Which pitch feels like home.
+
+Collection and center are independent variables:
+
+    small collection    + strong center
+    small collection    + weak center
+    chromatic collection + strong center
+    chromatic collection + weak center
+
+    scale != key != tonic != pitch collection
+
+
+4. GENERALIZED KEYS
+-------------------
+    generalized key = pitch collection + center
+
+Major and minor become two options among many:
+
+    D Dorian centered on D
+    D Dorian centered on F
+    whole-tone centered on E
+    octatonic centered on C#
+    melodic minor centered on Bb
+
+Later tonal music gains its vocabulary by freely pairing centers
+with diatonic modes, pentatonic, whole-tone, octatonic, and the
+minor collections. This is how to hear impressionism without
+flattening it into Roman numerals.
+
+
+5. MODULATION IS VOICE LEADING AT A LARGER SCALE
+------------------------------------------------
+    chord A  -> move a few voices -> chord B
+    collection A -> move one or two pitches -> collection B
+
+    D major:  D E F# G  A B C#
+    A major:  A B C# D  E F# G#
+    change:   G -> G#
+
+An entire modulation can be a single semitone event. Debussy often
+transforms a theme's whole harmonic world by moving one pitch.
+
+
+6. THE SAME PROCESS RUNS AT EVERY SCALE
+---------------------------------------
+    note -> note
+    chord -> chord
+    phrase collection -> phrase collection
+    key area -> key area
+
+At each level the ear rewards small displacement, common tones,
+continuity, and controlled introduction of new pitches. So ask
+what changed in the beat, the measure, the phrase, the section.
+
+
+7. CHROMATICISM IS NOT LOSS OF STRUCTURE
+----------------------------------------
+Chromatic harmony is motion through a larger voice-leading space —
+more complex than the seven diatonic triads, but still systematic,
+not deviation from tonal logic.
+
+When Chopin surprises you, ask first:
+
+    which voices moved, and by how little?
+    which pitches held?
+    which chord type was preserved?
+
+Only then reach for an exotic label.
+
+
+8. COHERENCE IS TWO-DIMENSIONAL
+-------------------------------
+    horizontal — each melodic line moves convincingly
+    vertical   — simultaneous pitches form related sonority types
+
+That pairing describes the whole extended common practice:
+Renaissance counterpoint, Bach, Chopin, Wagner, Debussy, jazz.
+Only the definition of an acceptable vertical sonority changes.
+
+
+9. HARMONIC IDENTITY SURVIVES CHANGING CHORDS
+---------------------------------------------
+Harmonic consistency means family resemblance, not repetition:
+
+    triads            -> triadic world
+    dominant sevenths -> dominant world
+    quartal chords    -> quartal world
+    clusters          -> cluster world
+    extended tertian  -> jazz/impressionist world
+
+So: pick a sonority vocabulary, then voice-lead through it —
+rather than switching chord construction whenever you want color.
+
+
+10. A SMALL PITCH VOCABULARY CREATES COHERENCE
+----------------------------------------------
+Tonal music typically holds its macroharmony to five to eight
+pitches over moderate spans. Color then comes from reordering,
+voicing, register, doubling, voice leading, shifting the center,
+and drawing different subsets — not from constant new chromatics.
+
+    choose an interesting 6-8 note universe
+    explore it deeply
+    then change one note
+
+That one note can feel enormous.
+
+
+11. THE LISTENER NEED NOT HEAR THE MECHANISM
+--------------------------------------------
+The theory is composer-centered: it asks what concepts help you
+make this music, not what labels describe it afterward.
+
+The listener hears arrival, tension, brightness, distance, stasis.
+They do not hear "two voices moved by T1" or "macroharmony changed
+by one pitch class."
+
+    Analyze technically; compose perceptually.
+
+
+WHAT TO MAKE AUTOMATIC
+----------------------
+ 1. Hear each chord as moving voices, not a block.
+ 2. Spot common tones, semitones, whole steps instantly.
+ 3. Track smoothness separately in soprano, inner voices, bass.
+ 4. Identify the current sonority family.
+ 5. Know the active collection without assuming its tonic.
+ 6. Hear the center independently of the collection.
+ 7. Notice when one note replaces the whole collection.
+ 8. Hear modulation as voice leading between collections.
+ 9. Hold a harmonic language steady while voices move freely.
+10. Understand a chord by what it can become.
+11. Think at several scales at once:
+    voice -> chord -> phrase -> collection -> tonal region.
+12. Read chromatic notes as voice-leading events, not departures.
+13. Prefer small changes with large color consequences.
+14. Treat the five components as independent controls.
+15. Judge by ear, not by elegance of mechanism.
+
+
+THE DEEPEST COMPRESSION
+-----------------------
+1. MINIMIZE MOTION.
+   Voices want short, intelligible paths.
+
+2. PRESERVE IDENTITY WHILE CHANGING SOMETHING.
+   Hold common tones, sonority type, collection, or center steady
+   while another variable moves.
+
+3. SEPARATE COLLECTION FROM CENTER.
+   Ask independently: what notes exist? which one is home?
+
+4. APPLY THE SAME THINKING AT EVERY SCALE.
+   Notes into notes, chords into chords, collections into
+   collections, regions into regions.
+
+This is the bridge from counterpoint to late-Romantic chromaticism
+to Debussy/Ravel scalar harmony. The later chapters elaborate it:
+the nineteenth century expands chromatic voice-leading space, the
+twentieth combines those techniques with constrained collections.
+
+CAVEAT: this is a compositional and theoretical framework, not an
+established psychological theory. Tymoczko leaves the empirical
+psychology to specialists.
