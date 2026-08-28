@@ -1,0 +1,356 @@
+This is the opening of Persichetti's *Twentieth-Century Harmony*, chapter 1. The principles layer roughly like this:
+
+## The founding axiom
+
+1. **Total freedom of material.** Any tone may follow any tone; any tones may sound together; any group may follow any group; any degree of tension may appear in any medium, dynamic, or duration. Nothing is forbidden a priori.
+2. **Freedom is not license — the burden shifts from rule to justification.** Success depends on the contextual and formal conditions that prevail, plus the composer's skill and soul. Persichetti removes prohibition and replaces it with accountability to context.
+3. **The interval is the entry point.** Understanding harmony begins with understanding intervals — and melodic and harmonic intervals are treated as one subject, since an interval's quality holds whether its notes sound successively or simultaneously.
+
+## Physical basis and the twelve categories
+
+4. **Constant physics, variable meaning.** An interval's acoustic properties never change; what changes is what it means in a given working context. Both halves matter — the theory is neither purely acoustic nor purely conventional.
+5. **Overtone derivation.** Intervals formed low in the overtone series read as consonant; those from the upper partials read as dissonant. Tension has a physical correlate, not just a stylistic one.
+6. **Temperament as reduction.** The chromatic tempered scale collapses an unlimited number of ratios into twelve intervals that inherit the character of their overtone-series counterparts.
+7. **Consonance and dissonance form a graded continuum, not a binary.** Six textural classes: open consonance (P5, octave), soft consonance (M/m 3rds and 6ths), mild dissonance (M2, m7), sharp dissonance (m2, M7), the perfect fourth (either), the tritone (neutral or restless).
+8. **Inversional pairing.** In Ex. 1-1 the brackets connect inversions: 1↔11 (m2/M7, sharp), 2↔10 (M2/m7, mild), the thirds with their sixths (soft), P5 with the octave (open). Inversion generally preserves tension class.
+9. **Two exceptions are boxed off deliberately.** The P4 (no. 5) and tritone (no. 6) sit at the center and are set apart — the P4 breaks the inversion rule (its inversion, P5, is an open consonance while the P4 itself is unfixed), and the tritone inverts to itself.
+10. **The tritone is the least stable interval** because it bisects the octave; it has no stable position to invert away from.
+11. **Size does not track tension.** Reading Ex. 1-1 left to right, the categories interleave rather than intensify — the sharpest dissonance is the smallest interval and also the second-largest.
+
+## Contextual relativity
+
+12. **The ambiguous intervals are resolved only by surroundings.** The tritone sounds neutral in chromatic passages, restless in diatonic ones (Ex. 1-2). The perfect fourth sounds consonant in dissonant surroundings and dissonant in consonant ones (Ex. 1-3).
+13. **Perception is relative to the local norm.** Both cases work by contrast with what's around them — an interval is heard by its distance from the prevailing tension level, not by an absolute measure.
+14. **Order of approach determines character.** The same ambiguous tritone that reads restless when tension is rising reads neutral when it arrives at the end of a decrescendo of tension (Ex. 1-5 vs. Ex. 1-6). Identical interval, opposite meaning, because of what preceded it.
+
+## Tension as a designed parameter
+
+15. **Tension is compositional material you can shape.** Intervals may be arranged in any order to form any pattern of tension interplay — low-to-high, high-to-low, or any other curve.
+16. **The abstract plan precedes the music.** Ex. 1-4 gives a bare tension scheme; Ex. 1-5 is that scheme realized in rhythm, register, and texture. The tension curve is a structural layer separate from its surface setting.
+17. **Repose is as valid a destination as tension.** Ex. 1-6 reverses the arrow and ends in relative rest, which the *rit. e dim.* reinforces.
+18. **Tension serves design and function** — it is subordinate to the form, not an end in itself.
+
+## Interaction with the other forces
+
+19. **Intervallic tension is one force among several** — timbre, dynamics, and tempo are peers, not accompaniments.
+20. **Those forces may agree or disagree with the intervals.** Sharp dissonances in loud double reeds agree (raucous); the same intervals in muted strings disagree (introspective). Ex. 1-7 stages exactly this: Allegro/oboes/*f* labeled agreement, Lento/muted strings/*p* labeled disagreement — with the intervallic content held constant so only the setting varies.
+21. **Neither strategy is superior.** Agreement and disagreement are both expressive options, chosen for effect.
+
+## Historical relativity
+
+22. **The consonance/dissonance concept itself is historically mobile.** As composers' attitudes and practices change, so does the concept; degrees of tension formerly heard as dissonant may be accepted as consonance.
+23. **Consonance is a norm, not an absolute.** In a harmony built from strongly dissonant intervals, those dissonances *become* the consonant norm — and genuinely consonant intervals may then sound dissonant against them. This generalizes the perfect-fourth principle to the whole system.
+24. **The classification in Ex. 1-1 is therefore a starting reference, not a law** — and the running head on the last page ("Inversion and Spacing") signals that even the physical taxonomy gets qualified further by register and voicing.
+
+╔══════════════════════════════════════════════════════════════════════════╗
+║  PERSICHETTI — TWENTIETH-CENTURY HARMONY, Ch.1: INTERVAL TENSION TABLE   ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+THE SIX TEXTURAL CLASSES
+------------------------
+  OPEN CONSONANCE .... perfect 5th, octave
+  SOFT CONSONANCE .... major 3rd, minor 3rd, major 6th, minor 6th
+  MILD DISSONANCE .... major 2nd, minor 7th
+  SHARP DISSONANCE ... minor 2nd, major 7th
+  PERFECT 4TH ........ consonant OR dissonant (context decides)
+  TRITONE (+4 / o5) .. ambiguous: neutral OR restless
+
+
+EX. 1-1 — THE TWELVE INTERVALS IN ORDER
+---------------------------------------
+  #   SEMI  INTERVAL         QUALITY
+  --  ----  ---------------  ----------------------------
+   1    1   minor 2nd        SHARP dissonance
+   2    2   major 2nd        MILD dissonance
+   3    3   minor 3rd        SOFT consonance
+   4    4   major 3rd        SOFT consonance
+   5    5   perfect 4th      [consonant or dissonant]
+   6    6   tritone          [neutral or restless]
+   7    7   perfect 5th      OPEN consonance
+   8    8   minor 6th        SOFT consonance
+   9    9   major 6th        SOFT consonance
+  10   10   minor 7th        MILD dissonance
+  11   11   major 7th        SHARP dissonance
+  12   12   octave           OPEN consonance
+
+  (interval number = number of semitones)
+
+
+INVERSION PAIRS — tension class survives inversion
+--------------------------------------------------
+   1 <--> 11    m2 / M7      sharp
+   2 <--> 10    M2 / m7      mild
+   3 <-->  9    m3 / M6      soft
+   4 <-->  8    M3 / m6      soft
+   7 <--> 12    P5 / octave  open
+   5 -->   7    P4 inverts to P5 — the one class change
+   6 <-->  6    tritone inverts to itself
+
+  Rule of thumb: the two numbers of a pair add to 12.
+
+
+TENSION SPECTRUM (least -> most)
+--------------------------------
+  open  <  soft  <  mild  <  sharp
+  P4 and tritone float free of this scale.
+
+  NOTE: interval SIZE does not track tension.
+  Smallest (m2) and near-largest (M7) are both the sharpest.
+
+
+THE TWO AMBIGUOUS INTERVALS (boxed in Ex. 1-1)
+----------------------------------------------
+  PERFECT 4TH
+    consonant  <- when surroundings are dissonant
+    dissonant  <- when surroundings are consonant
+
+  TRITONE
+    neutral    <- in chromatic passages; also when arriving from
+                  high tension moving toward repose
+    restless   <- in diatonic passages; also when tension is rising
+    Least stable interval: it divides the octave exactly in half.
+
+
+CORE PRINCIPLES
+---------------
+  * Any tone may follow or sound with any other tone. No prohibitions.
+  * Physical properties are constant; MEANING changes with context.
+  * Consonance from lower overtones, dissonance from upper overtones.
+  * An interval's quality holds whether sounded together or in sequence.
+  * Tension is compositional material — arrange it in any curve you like
+    (rising, falling, or any pattern); order of approach recolors the
+    ambiguous intervals.
+  * Intervallic tension is one force among peers: timbre, dynamics, tempo.
+      AGREEMENT    e.g. sharp dissonance + loud double reeds = raucous
+      DISAGREEMENT e.g. same intervals + muted strings = introspective
+    Neither is superior; both are expressive options.
+  * Consonance is a NORM, not an absolute. In a dissonant harmonic world
+    the dissonances become the "consonant" norm — and consonances may
+    then sound dissonant.
+  * This table is a starting reference, not a law.
+
+Here's the full set from these pages. Note there's a gap in the scan — Ex. 1-18 and 1-19 and their surrounding text are missing, so the "monopolizing intervals" idea and the setup for clouded/clear harmony are only partly recoverable.
+
+## Inversion
+
+1. **Inversion changes an interval's consonant-dissonant quality**, because inverting alters spacing and register — the pitch classes stay, the sound does not.
+2. **The amount of change is interval-specific.** There's no uniform rule; each interval must be judged individually.
+3. **Inversion can change an interval's functional class outright.** The P5, a solid open consonance, becomes the unstable P4. This is the exception that qualifies the tidy inversion-pairing of Ex. 1-1.
+4. **Sharp dissonances change most in intensity.** The narrow, cutting minor second opens out into a widespreading major seventh and loses some of its sting — same dissonance class, very different bite.
+5. **Narrowness produces bite; width produces spread.** The change is a function of physical distance between the tones, not of category.
+6. **The tritone is the special case: register shifts, distance doesn't.** Inverting it moves it in register while the intervallic span (six semitones) is unchanged — the one interval whose inversion is purely a matter of placement.
+
+## Spacing beyond the octave
+
+7. **Spacing is an independent tension variable**, ranking alongside the interval's own identity. Wide spacing recolors every class:
+   - Soft consonances (3rds, 6ths) become **richer**.
+   - Open consonances (octaves, 5ths) and the consonant P4 become **stronger**.
+   - Dissonances (2nds, 7ths) become **less biting yet more brilliant**.
+8. **Wide spacing trades bite for brilliance.** Tension isn't reduced so much as converted — the harshness leaves, the vividness stays.
+9. **Wide spacing loosens the tritone's pull toward resolution.** Its neutral chromatic form becomes more ambiguous and veiled; its restless diatonic form becomes even less addicted to resolution. Both readings drift further from functional obligation.
+10. **The ambiguous intervals stay ambiguous under spacing** — spacing intensifies their existing character rather than resolving it.
+
+## What a chord is, and how it's built
+
+11. **Two or more simultaneous intervals form what is "usually felt to be" a chord** — the hedge is deliberate; chordhood is perceptual, not definitional.
+12. **A chord is a collection of intervals**, not a stack of thirds with a root. This is the pivot of the whole chapter.
+13. **Three construction methods, all equally available:**
+    - **Equidistant** — one interval repeated (Ex. 1-11 does this for every interval from m2 through M7).
+    - **Same interval number, different quality** — major and minor 2nds together, perfect and augmented 4ths, etc.
+    - **Mixed intervals** — free combination.
+14. **Tertian construction is one option among twelve**, not the default. Quartal, quintal, secundal, and seventh-based chords are structurally equivalent choices.
+
+## Analyzing chords by interval content
+
+15. **Before setting a chord in motion, note the quality of every interval it contains.** Analysis precedes progression.
+16. **Harmonic tension can only be controlled through differences in chordal values as determined by interval characteristics.** This is stated as the sole means.
+17. **Without this, only limited progression is available** — the kind produced by root relationships within a fixed scale and key. Intervallic awareness buys flexibility that functional harmony can't.
+18. **Good part-writing is required to realize that flexibility.** Freedom of material doesn't excuse voice-leading craft.
+19. **Interval count grows combinatorially:** 3 notes = 3 intervals, 4 notes = 6, 5 notes = 10. (n(n−1)/2.) Density of relationships rises much faster than note count.
+20. **A chord can be described as a census of its intervals** — "3 cons., 2 sharp, 1 neutral diss." This is a tension profile, not a label.
+21. **Chords form a continuous tension gradient** (Ex. 1-14 runs three-note chords from 3 consonances to 1 mild + 2 sharp dissonances), parallel to the interval gradient of Ex. 1-1.
+
+## The two-axis classification
+
+22. **Chordal tension both affects and is affected by dynamics, medium, and spacing**, and varies by context — the same reciprocity established for intervals in Ex. 1-7.
+23. **A general classification makes the material manageable.** Persichetti offers taxonomy as a practical tool, not a truth claim.
+24. **Axis one: does the chord contain at least one sharp dissonance?** Axis two: **does it contain at least one tritone?** Four classes result (Ex. 1-16).
+25. **The two axes are independent.** Sharp dissonance governs harshness; the tritone governs restlessness.
+26. **Dissonance and instability are not the same thing.** Tritone chords are restless; tritone-free chords are stable *even when extremely dissonant*. You can write a violently dissonant chord that sits still.
+27. **A single instance of either element is enough to classify** — "at least one." These are presence tests, not proportions.
+
+## The perfect fourth in chords
+
+28. **A P4 makes a chord ambiguous**, because the interval itself can go either way.
+29. **A chord containing a P4 is classifiable only in its total interval context** — the other intervals decide.
+30. **The specific test:** look at the interval formed between the bass note and the note *not* part of the fourth.
+    - If that interval is a **mild or sharp dissonance** → the P4 sounds like an **open consonance**.
+    - If that interval is a **soft consonance** → the P4 sounds **mildly dissonant**.
+31. **This is the earlier contrast principle made operational.** The P4 reads as opposite to its surroundings; here the "surroundings" are precisely identified as one measurable interval, turning an aesthetic observation into a usable procedure.
+
+## Doubling
+
+32. **Every chord has a "natural" doubling under normal conditions** — roots in major triads, for instance. The quotation marks around "normal" concede the norm is conventional.
+33. **Any note may be doubled, tripled, or omitted** for textural purposes. Doubling is a color decision, not a rule-following one.
+34. **Three purposes:** enriching simple chords, pointing up characteristic part-writing, strengthening particular parts of a chord.
+35. **Doubling amplifies whatever it duplicates.** A doubled major third adds color; a doubled dissonant tone increases the bite. The doubled tone's own quality determines the effect.
+36. **Excessive coupling — all voices doubled — produces percussive harmony.** At the limit, doubling stops being a harmonic device and becomes a timbral/rhythmic one.
+
+## Spacing, clarity, and the overtone series
+
+37. **Chord members can be arranged so that specific interval types monopolize the pattern** — voicing selects which intervals dominate the ear.
+38. **Voicing produces clouded or clear harmony** — Ex. 1-20 labels alternative spacings (a) and (b) of the same material.
+39. **Clouded harmony may remain clouded and still be effective.** Muddiness is not an error state to be corrected.
+40. **Both cloudy and clear materials are essential ingredients.** Neither is the default or the goal; the pair is a resource.
+41. **The overtone series is the measuring stick for the aural difference.** Spacing that follows the series — wide at the bottom, closer above — reads clear; spacing that contradicts it, especially close intervals low down, reads clouded. The same acoustic fact that grounded the consonance table now governs voicing.
+42. **The chapter's method is consistent throughout:** state a physical basis, then show that context, register, spacing, doubling, and medium can override it — and treat that overridability as compositional opportunity rather than as a defect in the theory.
+
+╔══════════════════════════════════════════════════════════════════════════╗
+║  PERSICHETTI — Ch.1 (cont.)                                              ║
+║  INVERSION · SPACING · INTERVALS IN CHORDS · OVERTONE INFLUENCE          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+INVERSION — quality changes because spacing/register changed
+------------------------------------------------------------
+  Extent of change varies by interval. Not uniform.
+
+  P5  -> P4      basic FUNCTION altered: solid becomes unstable
+  m2  -> M7      cutting/narrow becomes widespreading; loses some sting
+  TRITONE -> TRITONE   pronounced REGISTER shift, NO change in distance
+
+  Takeaway: narrowness = bite, width = spread.
+            Sharp dissonances change most in intensity.
+
+
+SPACING > AN OCTAVE — what widening does to each class
+-----------------------------------------------------
+  SOFT consonances (3rds, 6ths) ......... RICHER
+  OPEN consonances (8ve, 5th) + cons. P4  STRONGER
+  DISSONANCES (2nds, 7ths) .............. LESS BITING, MORE BRILLIANT
+  TRITONE, neutral (chromatic) .......... more ambiguous, VEILED
+  TRITONE, restless (diatonic) .......... even LESS addicted to resolution
+
+  Wide spacing trades BITE for BRILLIANCE. Tension is converted,
+  not removed. Ambiguity is intensified, never resolved.
+
+
+SPACING & BALANCE (p.22)
+------------------------
+  Spacing is INSEPARABLE from the character of a tonal structure.
+
+  wide intervals at BOTTOM ....... ordinary balance
+  wide intervals at TOP .......... tautness
+  all voices in grateful registers  evenly distributed tension
+      -> alter only where you want a stress or highlight
+
+  Crowded close harmony CLEARS when each chord is broken into a
+  succession of intervals in two-part writing.
+
+
+WHAT A CHORD IS
+---------------
+  Two or more simultaneous intervals = "what is usually felt to be"
+  a chord.  A chord is a COLLECTION OF INTERVALS, not a stack of
+  thirds with a root. Tertian is one option among twelve.
+
+  THREE CONSTRUCTION METHODS
+    1. EQUIDISTANT — one interval repeated
+       (m2 / M2 / m3 / M3 / P4 / P5 / m6 / M6 / m7 / M7)
+    2. SAME NUMBER, MIXED QUALITY
+       (ma&mi 2nds · 7ths · 3rds · 6ths · p&aug 4ths · p&dim 5ths)
+    3. MIXED INTERVALS  (e.g. P5+M6, P4+m3, P5+M6+m2)
+
+
+ANALYZING A CHORD
+-----------------
+  * Note the quality of EVERY interval BEFORE setting the chord in motion.
+  * Only differences in chordal values (as set by interval characteristics)
+    let you control harmonic tension.
+  * Without it: only root-relationship progression inside a fixed key.
+  * Good part-writing is required to realize the added flexibility.
+
+  INTERVAL COUNT = n(n-1)/2
+     3 notes -> 3      4 notes -> 6      5 notes -> 10
+  Relationships grow much faster than note count.
+
+  Describe a chord as a TENSION CENSUS, not a label:
+     "3 cons."                        "2 cons. + 1 mild diss."
+     "1 cons. + 2 mild diss."         "2 cons. + 1 sharp diss."
+     "1 cons., 1 mild, 1 sharp"       "1 mild + 2 sharp diss."
+     "3 cons., 2 sharp, 1 neut."      "7 cons., 2 mild, 1 sharp"
+
+
+TWO-AXIS CHORD CLASSIFICATION  (Ex. 1-16)
+-----------------------------------------
+                    |  NO TRITONE      |  TRITONE
+  ------------------+------------------+------------------
+  SHARP DISSONANCE  |  harsh, stable   |  harsh, restless
+  NO SHARP DISS.    |  mild, stable    |  mild, restless
+
+  Presence test: "AT LEAST ONE" of each element. Not proportions.
+  The axes are INDEPENDENT:
+      sharp dissonance -> harshness
+      tritone          -> restlessness
+  Dissonance =/= instability. Tritone-free chords are stable EVEN
+  WHEN EXTREMELY DISSONANT.
+
+
+THE PERFECT FOURTH IN A CHORD — the test
+----------------------------------------
+  A P4 makes the chord ambiguous; classify only in TOTAL interval
+  context. Other intervals decide.
+
+  Look at the interval between the BASS NOTE and the NOTE NOT
+  INVOLVED IN THE FOURTH:
+
+     that interval is MILD or SHARP dissonance -> P4 sounds OPEN CONSONANT
+     that interval is SOFT consonance          -> P4 sounds MILDLY DISSONANT
+
+  (Same contrast rule as before, now made measurable.)
+
+
+DOUBLING
+--------
+  Every chord has a "natural" doubling under "normal" conditions
+  (e.g. roots in major triads) — but the quotes are deliberate.
+
+  Any note may be DOUBLED, TRIPLED, or OMITTED for texture.
+
+  PURPOSES:  enrich simple chords
+             point up characteristic part-writing
+             strengthen certain parts of a chord
+
+  EFFECTS:   doubled major third ...... adds COLOR
+             doubled dissonant tone ... increases BITE
+             excessive coupling (all voices doubled) -> PERCUSSIVE harmony
+
+  Doubling amplifies whatever it duplicates.
+
+
+MONOPOLIZING INTERVALS  (Ex. 1-18, 1-19)
+----------------------------------------
+  Arrange chord members so one interval type DOMINATES the pattern
+  — e.g. a passage moving through 3rds, then 4ths, then 2nds.
+  Voicing selects which intervals the ear hears.
+
+  The chosen interval may also form SEPARATE INTERVALLIC STRANDS
+  moving in CONTRARY MOTION.
+
+
+OVERTONE INFLUENCE — clouded vs. clear
+--------------------------------------
+  Same pitches, two spacings (a) and (b) -> different clarity.
+
+  Spacing that FOLLOWS the overtone series (wide low, close high) = CLEAR
+  Spacing that CONTRADICTS it (close intervals low down)          = CLOUDED
+
+  Clouded harmony may REMAIN clouded and still be effective.
+  Both cloudy and clear are essential ingredients — neither is default.
+  The overtone series is the measuring stick for the aural difference.
+
+
+THE METHOD OF THE WHOLE CHAPTER
+-------------------------------
+  State a physical basis -> then show that context, register, spacing,
+  doubling, and medium can override it -> treat that overridability as
+  compositional OPPORTUNITY, not as a defect in the theory.
